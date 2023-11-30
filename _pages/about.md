@@ -17,7 +17,9 @@ redirect_from:
 
 Academic Experience
 ======
-2023--- Present \    \ Research Scholar    Department of Mathematics and Shenzhen International Center for Mathematics
+2023--- Present  >Research Scholar    
+                 >
+                 >Department of Mathematics and Shenzhen International Center for Mathematics
 
 Academic Experience
 ======
