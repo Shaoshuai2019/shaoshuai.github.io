@@ -16,8 +16,8 @@ main:
   - title: "<font color=blue>CV</font>"
     url: /files/paper4.pdf
   
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
   #- title: "Guide"
   #  url: /markdown/
