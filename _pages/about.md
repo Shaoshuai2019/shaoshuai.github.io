@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Shaoshuai Chu
+Academic Experience
 ======
-Research Scholar    Department of Mathematics and Shenzhen International Center for Mathematics
+2023--- Present \t Research Scholar    Department of Mathematics and Shenzhen International Center for Mathematics
 
 Academic Experience
 ======
