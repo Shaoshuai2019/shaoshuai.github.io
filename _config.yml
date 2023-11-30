@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shaoshuai's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Shaoshuai Chu"
 description              : &description "personal description"
