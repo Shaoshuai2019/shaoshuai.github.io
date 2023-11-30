@@ -18,7 +18,7 @@ Academic Experience
 2023---Present, Research Scholar, Department of Mathematics and Shenzhen International Center for Mathematics, Southern University of Science and Technology, Shenzhen, China
 
 
-Academic Experience
+Academic Education
 ======
 2019---2023 PhD in Computational Mathematics,
           Department of Mathematics, Southern University of Science and Technology, Shenzhen, China
