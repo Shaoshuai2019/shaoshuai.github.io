@@ -1,13 +1,15 @@
 ---
 permalink: /
 #title: "Hello! Welcome to my homepage"
-title: "<font color=blue>hh</font>"
+title: "<font color=blue>Hello! Welcome to my homepage!</font>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
 
 Academic Experience
 ======
