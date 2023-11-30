@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: "Hello! Welcome to my homepage"
+#title: "Hello! Welcome to my homepage"#&emsp;&emsp;&emsp;&emsp;
 title: "<font color=blue>Hello! Welcome to my homepage!</font>"
 excerpt: "About me"
 author_profile: true
@@ -14,7 +14,7 @@ redirect_from:
 
 
 
-#&emsp;&emsp;&emsp;&emsp;
+
 
 Academic Experience
 ======
@@ -36,20 +36,20 @@ Academic Experience
 
 Awards
 ======
-2023.06 Top 10 Graduates with a Postgraduate Degree of the University, Southern University of Science and Technology, Shenzhen, China
+2023.06 ---Top 10 Graduates with a Postgraduate Degree of the University, Southern University of Science and Technology, Shenzhen, China
 
-2023.05 Top 10 Graduates with a Postgraduate Degree of the School of Science,
+2023.05 ---Top 10 Graduates with a Postgraduate Degree of the School of Science,
 Southern University of Science and Technology, Shenzhen, China
 
-2022.10 National Scholarship, Southern University of Science and Technology, Shenzhen, China
+2022.10 ---National Scholarship, Southern University of Science and Technology, Shenzhen, China
 
-2016.10 National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
+2016.10 ---National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
 
-2016.05 Honorable Mention in MCM/ICM, Beijing Institute of Technology, Beijing, China
+2016.05 ---Honorable Mention in MCM/ICM, Beijing Institute of Technology, Beijing, China
 
-2015.10 National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
+2015.10 ---National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
 
-2014.10 National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
+2014.10 ---National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
 
 CV
 ======
