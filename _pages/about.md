@@ -13,9 +13,6 @@ redirect_from:
 &nbsp;
 
 
-
-
-
 Academic Experience
 ======
 2023---Present, Research Scholar, Department of Mathematics and Shenzhen International Center for Mathematics, Southern University of Science and Technology, Shenzhen, China
@@ -54,4 +51,4 @@ Southern University of Science and Technology, Shenzhen, China
 CV
 ======
 url: /files/Chushaoshuai_CV.pdf
-[CV page](https://academicpages.github.io/cv)
+[CV page](url: /files/Chushaoshuai_CV.pdf)
