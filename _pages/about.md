@@ -17,18 +17,18 @@ redirect_from:
 
 Academic Experience
 ======
-2023--- Present \t Research Scholar    Department of Mathematics and Shenzhen International Center for Mathematics
+2023--- Present \    \ Research Scholar    Department of Mathematics and Shenzhen International Center for Mathematics
 
 Academic Experience
 ======
-2019--2023 PhD in  Computational Mathematics
+2019---2023 PhD in  Computational Mathematics
           Department of Mathematics, Southern University of Science and Technology, Shenzhen, China
   
-2017--2019  MS in Computational Mathematics
+2017---2019  MS in Computational Mathematics
            School of Mathematics, Harbin Institute of Technology, Harbin, China 
            Department of Mathematics, Southern University of Science and Technology,Shenzhen, China
 
-2013--2017 BS in Information and Computing Science
+2013---2017 BS in Information and Computing Science
            School of Mathematics and Statistics, Beijing Institute of Technology, Beijing, China
 
 
