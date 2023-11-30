@@ -14,14 +14,11 @@ redirect_from:
 
 
 
-
+#&emsp;&emsp;&emsp;&emsp;
 
 Academic Experience
 ======
-2023---Present  &emsp;&emsp;Research Scholar  
-&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;Department of Mathematics and Shenzhen International Center for Mathematics  
-&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;Southern University of Science and Technology, Shenzhen, China
-
+2023---Present, Research Scholar, Department of Mathematics and Shenzhen International Center for Mathematics, Southern University of Science and Technology, Shenzhen, China
 
 
 Academic Experience
@@ -54,6 +51,7 @@ Southern University of Science and Technology, Shenzhen, China
 
 2014.10 National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
 
-Awards
+CV
 ======
 url: /files/Chushaoshuai_CV.pdf
+[CV page](https://academicpages.github.io/cv)
