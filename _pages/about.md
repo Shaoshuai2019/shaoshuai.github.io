@@ -1,7 +1,7 @@
 ---
 permalink: /
 #title: "Hello! Welcome to my homepage"#&emsp;&emsp;&emsp;&emsp;
-title: "<font color=blue>Hello! Welcome to my homepage!</font>"
+title: "<font color=blue>Hello there, I am Shaoshuai Chu! Welcome to my homepage!</font>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -48,6 +48,3 @@ Southern University of Science and Technology, Shenzhen, China
 
 2014.10 ---National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
 
-CV
-======
-[CV page](url:/files/paper1.pdf)
