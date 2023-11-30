@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Hello! Welcome to my homepage"
+#title: "Hello! Welcome to my homepage"
+title: "<font color=blue>hh</font>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
