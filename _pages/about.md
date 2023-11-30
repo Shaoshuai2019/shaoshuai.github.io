@@ -55,3 +55,7 @@ Southern University of Science and Technology, Shenzhen, China
 2015.10 National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
 
 2014.10 National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
+
+Awards
+======
+url: /files/Chushaoshuai_CV.pdf
