@@ -50,5 +50,4 @@ Southern University of Science and Technology, Shenzhen, China
 
 CV
 ======
-url: /files/Chushaoshuai_CV.pdf
 [CV page](url: /files/Chushaoshuai_CV.pdf)
