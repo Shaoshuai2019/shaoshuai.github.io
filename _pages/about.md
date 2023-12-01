@@ -14,9 +14,10 @@ redirect_from:
 &nbsp;
 
 orange
-## <kbd>Academic Experience</kbd>
+## <kbd><h2>Academic Experience</h2></kbd>
 
-## <kbd><font color=orange>Hello there, I am Shaoshuai Chu </font></kbd>
+
+## <h2>Academic Experience</h2>
 
 * 2023---Present&emsp;&ensp;Research Scholar, [Department of Mathematics](https://math.sustech.edu.cn/?lang=en),   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us),   
