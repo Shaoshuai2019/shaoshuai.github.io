@@ -36,6 +36,7 @@ redirect_from:
 
   * S. Chu and A. Kurganov, [Local Characteristic Decomposition Based Central-Upwind Scheme for Compressible Multifluids](./files/Chu-Kurganov_multifluid.pdf), Proceedings of Finite Volumes for Complex Applications X (Strasbourg, 2023).
 
+
   * S. Chu, O. Kovyrkina,  A. Kurganov, and  V. Ostapenko, [Experimental Convergence Rate Study for Three Shock-Capturing Schemes and Development of Highly Accurate Combined Schemes](./files/Chu-Kovyrkina-Kurganov-Ostapenko.pdf), Numerical Methods for Partial Differential Equations, 39 (2023), pp. 4317-4346.
 
   * V. A. Kolotilov, A. A. Kurganov, V. V. Ostapenko, N. A. Khandeeva and S. Chu, [On the Accuracy of Shock-Capturing Schemes Calculating Gas-Dynamic Shock Waves](./files/Kolotilov-Kurganov-Ostapenko-Khandeeva-Chu.pdf), Computational Mathematics and Mathematical Physics, 63 (2023), pp. 1341-1349.
