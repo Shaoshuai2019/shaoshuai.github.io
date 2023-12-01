@@ -1,7 +1,7 @@
 ---
 permalink: /
 #title: "Hello! Welcome to my homepage"#&emsp;&emsp;&emsp;&emsp;
-title: "<font color=blue>Hello there, I am Shaoshuai Chu (楚少帅)!&emsp;&ensp;&ensp;&emsp;&ensp;&ensp;&emsp;&ensp;&ensp;&emsp;&ensp;&ensp;   
+title: "<font color=blue>Hello there, I am Shaoshuai Chu (楚少帅)!&ensp;   
 Welcome to my homepage!</font>"
 excerpt: "About me"
 author_profile: true
@@ -31,12 +31,12 @@ redirect_from:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Shenzhen, China
 * 2013---2017 &emsp;BS in Information and Computing Science,   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;School of Mathematics and Statistics,Beijing Institute of Technology,   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Beijing, China
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Beijing, China
 
 ## Teaching Assistant Experience
   * 2023 Spring  &emsp;&ensp;ODE
   * 2022 Fall    &emsp;&emsp;&ensp;&ensp;Linear Algebra & Scientific Computing
-  * 2022 Spring  &emsp;&ensp;ODE Numerical Solutions to PDEs
+  * 2022 Spring  &emsp;&ensp;ODE & Numerical Solutions to PDEs
   * 2021 Fall    &emsp;&emsp;&ensp;&ensp;Calculus I
   * 2021 Spring  &emsp;&ensp;Calculus II
   * 2020 Fall    &emsp;&emsp;&ensp;&ensp;Linear Algebra
