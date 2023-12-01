@@ -38,27 +38,27 @@ redirect_from:
 
   * S. Chu and A. Kurganov, [Local Characteristic Decomposition Based Central-Upwind Scheme for Compressible Multifluids](./files/Chu-Kurganov_multifluid.pdf), Proceedings of Finite Volumes for Complex Applications X (Strasbourg, 2023).
 
-  * S. Chu, O. Kovyrkina,  A. Kurganov, and  V. Ostapenko, Experimental Convergence Rate Study for Three Shock-Capturing Schemes and Development of Highly Accurate Combined Schemes, Numerical Methods for Partial Differential Equations, 39 (2023), pp. 4317-4346.
+  * S. Chu, O. Kovyrkina,  A. Kurganov, and  V. Ostapenko, [Experimental Convergence Rate Study for Three Shock-Capturing Schemes and Development of Highly Accurate Combined Schemes](./files/Chu-Kovyrkina-Kurganov-Ostapenko.pdf), Numerical Methods for Partial Differential Equations, 39 (2023), pp. 4317-4346.
 
-  * V. A. Kolotilov, A. A. Kurganov, V. V. Ostapenko, N. A. Khandeeva and S. Chu, [On the Accuracy of Shock-Capturing Schemes Calculating Gas-Dynamic Shock Waves](./files/Chu-Kovyrkina-Kurganov-Ostapenko.pdf), Computational Mathematics and Mathematical Physics, 63 (2023), pp. 1341-1349.
+  * V. A. Kolotilov, A. A. Kurganov, V. V. Ostapenko, N. A. Khandeeva and S. Chu, [On the Accuracy of Shock-Capturing Schemes Calculating Gas-Dynamic Shock Waves](./files/Kolotilov-Kurganov-Ostapenko-Khandeeva-Chu.pdf), Computational Mathematics and Mathematical Physics, 63 (2023), pp. 1341-1349.
 
   * A. Chertock, S. Chu and A. Kurganov, [Adaptive High-Order A-WENO Schemes Based on a New Local Smoothness Indicator](./files/Chertock-Chu-Kurganov_AWENO.pdf), East Asian Journal on Applied Mathematics, 13 (2023), pp. 576-609.
 
   * S. Chu, A. Kurganov and R. Xin, [A Fifth-Order A-WENO Scheme Based on the Low-Dissipation Central-Upwind Fluxes](./files/Chu-Kurganov-Xin.pdf), Proceedings of the XVIII International Conference on Hyperbolic Problems: Theory, Numerics, Applications.
 
-  * S. Chu, A. Kurganov, S. Mohammadian and Z. D.  Zheng, Fifth-Order A-WENO Path-Conservative Central-Upwind Scheme for Behavioral Non-Equilibrium Traffic Models, Communications in Computational Physics, 33 (2023), pp. 692-732.
+  * S. Chu, A. Kurganov, S. Mohammadian and Z. D.  Zheng, [Fifth-Order A-WENO Path-Conservative Central-Upwind Scheme for Behavioral Non-Equilibrium Traffic Models](./files/Chu-Kurganov-Mohammadian-Zheng.pdf), Communications in Computational Physics, 33 (2023), pp. 692-732.
 
-  * S. Chu and A. Kurganov, Flux Globalization Based Well-Balanced Central-Upwind Scheme for One-Dimensional Blood Flow Models, Calcolo, 60 (2023), Paper No. 2, 35 pp.
+  * S. Chu and A. Kurganov, [Flux Globalization Based Well-Balanced Central-Upwind Scheme for One-Dimensional Blood Flow Models](./files/Chu-Kurganov.pdf), Calcolo, 60 (2023), Paper No. 2, 35 pp.
 
 ### <kbd>Publications in 2022 </kbd>
 
-  * A. Chertock, S. Chu, M. Herty, A. Kurganov and M. Lukacova, Local Characteristic Decomposition Based Central-Upwind Scheme, Journal of Computational Physics, 473 (2023), Paper No. 111718, 24 pp.
+  * A. Chertock, S. Chu, M. Herty, A. Kurganov and M. Lukacova, [Local Characteristic Decomposition Based Central-Upwind Scheme](./files/Chertock-Chu-Herty-Kurganov-Lukacova.pdf), Journal of Computational Physics, 473 (2023), Paper No. 111718, 24 pp.
 
-  * S. Chu, A. Kurganov and M. Na, Fifth-Order A-WENO Schemes Based on the Path-Conservative Central-Upwind Method, Journal of Computational Physics, 469 (2022), Paper No. 111508, 22 pp.
+  * S. Chu, A. Kurganov and M. Na, [Fifth-Order A-WENO Schemes Based on the Path-Conservative Central-Upwind Method](./files/Chu-Kurganov-Na.pdf), Journal of Computational Physics, 469 (2022), Paper No. 111508, 22 pp.
 
 ### <kbd>Publications in 2021 </kbd>
 
-  * A. Chertock, S. Chu and A. Kurganov, Hybrid Multifluid Algorithms Based on the Path-Conservative Central-Upwind Scheme, Journal of Scientific Computing, 89 (2021), Paper No. 48, 24 pp.
+  * A. Chertock, S. Chu and A. Kurganov, [Hybrid Multifluid Algorithms Based on the Path-Conservative Central-Upwind Scheme](./files/Chertock-Chu-Kurganov_multifluids.pdf), Journal of Scientific Computing, 89 (2021), Paper No. 48, 24 pp.
 
 ## <kbd>Academic Education</kbd>
 
@@ -89,29 +89,29 @@ redirect_from:
 
 ## <kbd>Awards</kbd>
 
-  * 2023.06&emsp;&ensp;Top 10 Graduates with a Postgraduate Degree of the University    
+  * 2023.06&emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the University    
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
-  * 2023.05 &emsp;&ensp;Top 10 Graduates with a Postgraduate Degree of the School of Science,   
+  * 2023.05 &emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the School of Science,   
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
   * 2022.10 &emsp;&ensp; National Scholarship   
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
-  * 2016.10 &emsp;&ensp;National Encouragement Scholarship,   
+  * 2016.10 &emsp;&ensp; National Encouragement Scholarship,   
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Scholarship for Outstanding Students  
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Outstanding Students of the University    
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Beijing Institute of Technology, Beijing, China
 
-  * 2016.05 &emsp;&ensp;Honorable Mention in MCM/ICM    
+  * 2016.05 &emsp;&ensp; Honorable Mention in MCM/ICM    
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Beijing Institute of Technology, Beijing, China
 
-  * 2015.10 &emsp;&ensp;National Encouragement Scholarship    
+  * 2015.10 &emsp;&ensp; National Encouragement Scholarship    
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Scholarship for Outstanding Students    
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Outstanding Students of the University  
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Beijing Institute of Technology, Beijing, China
 
-  * 2014.10 &emsp;&ensp;National Encouragement Scholarship    
+  * 2014.10 &emsp;&ensp; National Encouragement Scholarship    
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Scholarship for Outstanding Students   
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Outstanding Students of the University  
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Beijing Institute of Technology, Beijing, China
