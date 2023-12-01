@@ -27,7 +27,7 @@ redirect_from:
 ### <kbd>Recent Preprint</kbd>
 
    * S. Chu and A. Kurganov   
-    [New Adaptive Low-Dissipation Central-Upwind Schemes](./files/List_Publications.pdf)[paper1.pdf](./paper1.pdf), submitted to ESAIM: Mathematical Modelling and Numerical Analysis.
+    [New Adaptive Low-Dissipation Central-Upwind Schemes](./files/List_Publications.pdf)(./paper1.pdf), submitted to ESAIM: Mathematical Modelling and Numerical Analysis.
 
    * S. Chu, A. Kurganov and R. Xin, Low-Dissipation Central-Upwind Schemes for Compressible Multifluids, submitted to Journal of Computational Physics.
 
@@ -92,18 +92,29 @@ redirect_from:
   * 2023.06 &emsp;&ensp;Top 10 Graduates with a Postgraduate Degree of the University,    
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
-  * 2023.05 ---Top 10 Graduates with a Postgraduate Degree of the School of Science,
-Southern University of Science and Technology, Shenzhen, China
+  * 2023.05 &emsp;&ensp;Top 10 Graduates with a Postgraduate Degree of the School of Science,   
+  &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
-  * 2022.10 ---National Scholarship, Southern University of Science and Technology, Shenzhen, China
+  * 2022.10 &emsp;&ensp;National Scholarship,   
+   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
-  * 2016.10 ---National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
+  * 2016.10 &emsp;&ensp;National Encouragement Scholarship,   
+   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Scholarship for Outstanding Students,    
+   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Outstanding Students of the University,    
+   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Beijing Institute of Technology, Beijing, China
 
-  * 2016.05 ---Honorable Mention in MCM/ICM, Beijing Institute of Technology, Beijing, China
+  * 2016.05 &emsp;&ensp;Honorable Mention in MCM/ICM,    
+  &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Beijing Institute of Technology, Beijing, China
 
-  * 2015.10 ---National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
+  * 2015.10 &emsp;&ensp;National Encouragement Scholarship,    
+  &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Scholarship for Outstanding Students,    
+  &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Outstanding Students of the University,   
+  &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Beijing Institute of Technology, Beijing, China
 
-  * 2014.10 ---National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
+  * 2014.10 &emsp;&ensp;National Encouragement Scholarship,    
+  &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Scholarship for Outstanding Students,   
+  &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Outstanding Students of the University,  
+  &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Beijing Institute of Technology, Beijing, China
 
 &nbsp;
 &nbsp;
