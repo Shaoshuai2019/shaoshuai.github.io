@@ -20,8 +20,8 @@ redirect_from:
 
 ## Academic Education
 
-* 2019---2023 &emsp;PhD in Computational Mathematics,
-          Department of Mathematics, Southern University of Science and Technology, Shenzhen, China
+* 2019---2023&emsp;PhD in Computational Mathematics,
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Department of Mathematics, Southern University of Science and Technology, Shenzhen, China
   
 * 2017---2019 &emsp;MS in Computational Mathematics
            School of Mathematics, Harbin Institute of Technology, Harbin, China 
