@@ -16,12 +16,13 @@ redirect_from:
 
 ## <kbd>Academic Experience</kbd>
 
+
 * 2023---Present&emsp;&ensp;Research Scholar, [Department of Mathematics](https://math.sustech.edu.cn/?lang=en),   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us),   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[Southern University of Science and Technology](https://www.sustech.edu.cn/en/),   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;Shenzhen, China
 
-## Academic Education
+## <kbd>Academic Education</kbd>
 
 * 2019---2023&emsp;PhD in Computational Mathematics,             
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Department of Mathematics, Southern University of Science and Technology,     
@@ -34,7 +35,7 @@ redirect_from:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;School of Mathematics and Statistics,Beijing Institute of Technology,   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Beijing, China
 
-## Teaching Assistant Experience
+## <kbd>Teaching Assistant Experience</kbd>
   * 2023 Spring  &emsp;&ensp;ODE
   * 2022 Fall    &emsp;&emsp;&ensp;&ensp;Linear Algebra & Scientific Computing
   * 2022 Spring  &emsp;&ensp;ODE & Numerical Solutions to PDEs
@@ -47,7 +48,7 @@ redirect_from:
   * 2018 Fall    &emsp;&emsp;&ensp;&ensp;Calculus I 
   * 2018 Spring  &emsp;&ensp;Calculus II
   * 2017 Fall    &emsp;&emsp;&ensp;&ensp;Calculus I 
-## Awards
+## <kbd>Awards</kbd>
 
 * 2023.06 ---Top 10 Graduates with a Postgraduate Degree of the University, Southern University of Science and Technology, Shenzhen, China
 
