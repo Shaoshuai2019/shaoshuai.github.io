@@ -83,7 +83,7 @@ author:
   name             : "Shaoshuai Chu"
   avatar           : "profile2.png"
   bio              : "Computational Mathematics"
-  location         : "SUSTech, Shenzhen, China"
+  location         : <a href="http://www.baidu.com">前往百度</a>
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=CumyZ2QAAAAJ&hl=zh-CN"
