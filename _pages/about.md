@@ -44,7 +44,7 @@ redirect_from:
 
   * A. Chertock, S. Chu and A. Kurganov, Adaptive High-Order A-WENO Schemes Based on a New Local Smoothness Indicator, East Asian Journal on Applied Mathematics, 13 (2023), pp. 576-609.
 
-  * S. Chu, A. Kurganov and R. Xin, A Fifth-Order A-WENO Scheme Based on the Low-Dissipation Central-Upwind Fluxes, Proceedings of the XVIII International Conference on Hyperbolic Problems: Theory, Numerics, Applications.
+  * S. Chu, A. Kurganov and R. Xin, [A Fifth-Order A-WENO Scheme Based on the Low-Dissipation Central-Upwind Fluxes](./files/Chu-Kurganov-Xin.pdf), Proceedings of the XVIII International Conference on Hyperbolic Problems: Theory, Numerics, Applications.
 
   * S. Chu, A. Kurganov, S. Mohammadian and Z. D.  Zheng, Fifth-Order A-WENO Path-Conservative Central-Upwind Scheme for Behavioral Non-Equilibrium Traffic Models, Communications in Computational Physics, 33 (2023), pp. 692-732.
 
@@ -89,7 +89,7 @@ redirect_from:
 
 ## <kbd>Awards</kbd>
 
-  * 2023.06 &emsp;&ensp;Top 10 Graduates with a Postgraduate Degree of the University    
+  * 2023.06 &emsp;&ensp;Nop 10 Graduates with a Postgraduate Degree of the University    
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
   * 2023.05 &emsp;&ensp;Top 10 Graduates with a Postgraduate Degree of the School of Science,   
