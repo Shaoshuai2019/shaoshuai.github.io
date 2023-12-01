@@ -14,7 +14,7 @@ redirect_from:
 &nbsp;
 
 orange
-## <kbd><h2>Academic Experience</h2></kbd>
+
 
 
 ## <h2>Academic Experience</h2>
