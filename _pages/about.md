@@ -95,7 +95,7 @@ redirect_from:
   * 2023.05 &emsp;&ensp;Top 10 Graduates with a Postgraduate Degree of the School of Science,   
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
-  * 2022.10 &emsp;&ensp;National Scholarship   
+  * 2022.10 &emsp;&ensp; National Scholarship   
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
   * 2016.10 &emsp;&ensp;National Encouragement Scholarship,   
