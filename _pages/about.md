@@ -27,7 +27,7 @@ redirect_from:
 ### <kbd>Recent Preprint</kbd>
 
    * S. Chu and A. Kurganov   
-    New Adaptive Low-Dissipation Central-Upwind Schemes  
+    [New Adaptive Low-Dissipation Central-Upwind Schemes](url: /files/List_Publications.pdf)
     submitted to ESAIM: Mathematical Modelling and Numerical Analysis.
 
    * S. Chu, A. Kurganov and R. Xin   
