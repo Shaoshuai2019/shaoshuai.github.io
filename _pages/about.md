@@ -20,14 +20,14 @@ redirect_from:
 
 ## Academic Education
 
-* 2019---2023 PhD in Computational Mathematics,
+* 2019---2023 &emsp;PhD in Computational Mathematics,
           Department of Mathematics, Southern University of Science and Technology, Shenzhen, China
   
-* 2017---2019  MS in Computational Mathematics
+* 2017---2019 &emsp;MS in Computational Mathematics
            School of Mathematics, Harbin Institute of Technology, Harbin, China 
            Department of Mathematics, Southern University of Science and Technology,Shenzhen, China
 
-* 2013---2017 BS in Information and Computing Science
+* 2013---2017 &emsp;BS in Information and Computing Science
            School of Mathematics and Statistics, Beijing Institute of Technology, Beijing, China
 
 ## Teaching Assistant Experience
