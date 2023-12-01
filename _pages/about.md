@@ -13,9 +13,9 @@ redirect_from:
 &nbsp;
 
 
-Academic Experience
-======
-2023---Present, Research Scholar, Department of Mathematics and Shenzhen International Center for Mathematics, Southern University of Science and Technology, Shenzhen, China
+## Academic Experience
+
+* 2023---Present, Research Scholar, Department of Mathematics and Shenzhen International Center for Mathematics, Southern University of Science and Technology, Shenzhen, China
 
 
 ## Academic Education
@@ -30,6 +30,24 @@ Academic Experience
 * 2013---2017 BS in Information and Computing Science
            School of Mathematics and Statistics, Beijing Institute of Technology, Beijing, China
 
+&nbsp;
+&nbsp;
+## Teaching Assistant Experience
+  * 2023 Spring &emsp; ODE
+  * 2022 Fall   &emsp;&emsp;&emsp; Linear Algebra & Scientific Computing
+  * 2022 Spring  &emsp;ODE Numerical Solutions to PDEs
+  * 2021 Fall    &emsp;&emsp;Calculus I
+  * 2021 Spring  &emsp;Calculus II
+  * 2020 Fall    &emsp;&emsp; Linear Algebra
+  * 2020 Spring   &emsp;Calculus II
+  * 2019 Fall   &emsp;&emsp;  Calculus I 
+  * 2019 Spring  &emsp;Calculus II
+  * 2018 Fall   &emsp;&emsp;  Calculus I 
+  * 2018 Spring  &emsp; Calculus II
+  * 2017 Fall    &emsp;&emsp; Calculus I 
+
+&nbsp;
+&nbsp;
 
 ## Awards
 
@@ -52,7 +70,3 @@ Southern University of Science and Technology, Shenzhen, China
 &nbsp;
 
 
-Publications
-======
-paper1 
-url [Download paper here](http://academicpages.github.io/files/paper2.pdf)
