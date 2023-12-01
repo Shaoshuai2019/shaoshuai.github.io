@@ -1,7 +1,3 @@
 ---
-title: "Hybrid Multifluid Algorithms Based on the Path-Conservative Central-Upwind Scheme"
-collection: publications
-permalink: /publication/Paper1
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Hybrid Multifluid Algorithms Based on the Path-Conservative Central-Upwind Scheme  
+Journal of Scientific Computing, 89 (2021), Paper No. 48, 24 pp.
