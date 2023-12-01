@@ -32,17 +32,17 @@ redirect_from:
 
 ## Teaching Assistant Experience
   * 2023 Spring  &emsp;&ensp;ODE
-  * 2022 Fall    &emsp;&emsp;&ensp;Linear Algebra & Scientific Computing
+  * 2022 Fall    &emsp;&emsp;&ensp;&ensp;Linear Algebra & Scientific Computing
   * 2022 Spring  &emsp;&ensp;ODE Numerical Solutions to PDEs
-  * 2021 Fall    &emsp;&emsp;&ensp;Calculus I
+  * 2021 Fall    &emsp;&emsp;&ensp;&ensp;Calculus I
   * 2021 Spring  &emsp;&ensp;Calculus II
-  * 2020 Fall    &emsp;&emsp;&ensp; Linear Algebra
+  * 2020 Fall    &emsp;&emsp;&ensp;&ensp;Linear Algebra
   * 2020 Spring  &emsp;&ensp;Calculus II
-  * 2019 Fall    &emsp;&emsp;&ensp;Calculus I 
+  * 2019 Fall    &emsp;&emsp;&ensp;&ensp;Calculus I 
   * 2019 Spring  &emsp;&ensp;Calculus II
-  * 2018 Fall    &emsp;&emsp;&ensp;Calculus I 
+  * 2018 Fall    &emsp;&emsp;&ensp;&ensp;Calculus I 
   * 2018 Spring  &emsp;&ensp;Calculus II
-  * 2017 Fall    &emsp;&emsp; &ensp;Calculus I 
+  * 2017 Fall    &emsp;&emsp;&ensp;&ensp;Calculus I 
 ## Awards
 
 * 2023.06 ---Top 10 Graduates with a Postgraduate Degree of the University, Southern University of Science and Technology, Shenzhen, China
