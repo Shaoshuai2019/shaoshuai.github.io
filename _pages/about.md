@@ -30,8 +30,6 @@ redirect_from:
 * 2013---2017 BS in Information and Computing Science
            School of Mathematics and Statistics, Beijing Institute of Technology, Beijing, China
 
-&nbsp;
-&nbsp;
 ## Teaching Assistant Experience
   * 2023 Spring &emsp; ODE
   * 2022 Fall   &emsp;&emsp;&ensp; Linear Algebra & Scientific Computing
@@ -45,10 +43,6 @@ redirect_from:
   * 2018 Fall   &emsp;&emsp;&ensp; Calculus I 
   * 2018 Spring  &emsp;&ensp;Calculus II
   * 2017 Fall    &emsp;&emsp; &ensp;Calculus I 
-
-&nbsp;
-&nbsp;
-
 ## Awards
 
 * 2023.06 ---Top 10 Graduates with a Postgraduate Degree of the University, Southern University of Science and Technology, Shenzhen, China
