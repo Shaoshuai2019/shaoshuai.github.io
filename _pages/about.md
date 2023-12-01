@@ -48,22 +48,23 @@ redirect_from:
   * 2018 Fall    &emsp;&emsp;&ensp;&ensp;Calculus I 
   * 2018 Spring  &emsp;&ensp;Calculus II
   * 2017 Fall    &emsp;&emsp;&ensp;&ensp;Calculus I 
+  
 ## <kbd>Awards</kbd>
 
-* 2023.06 ---Top 10 Graduates with a Postgraduate Degree of the University, Southern University of Science and Technology, Shenzhen, China
+  * 2023.06 ---Top 10 Graduates with a Postgraduate Degree of the University, Southern University of Science and Technology, Shenzhen, China
 
-* 2023.05 ---Top 10 Graduates with a Postgraduate Degree of the School of Science,
+  * 2023.05 ---Top 10 Graduates with a Postgraduate Degree of the School of Science,
 Southern University of Science and Technology, Shenzhen, China
 
-* 2022.10 ---National Scholarship, Southern University of Science and Technology, Shenzhen, China
+  * 2022.10 ---National Scholarship, Southern University of Science and Technology, Shenzhen, China
 
-* 2016.10 ---National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
+  * 2016.10 ---National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
 
-* 2016.05 ---Honorable Mention in MCM/ICM, Beijing Institute of Technology, Beijing, China
+  * 2016.05 ---Honorable Mention in MCM/ICM, Beijing Institute of Technology, Beijing, China
 
-* 2015.10 ---National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
+  * 2015.10 ---National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
 
-* 2014.10 ---National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
+  * 2014.10 ---National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
 
 &nbsp;
 &nbsp;
