@@ -16,7 +16,8 @@ redirect_from:
 
 ## Academic Experience
 
-* 2023---Present, Research Scholar, Department of Mathematics and Shenzhen International Center for Mathematics, Southern University of Science and Technology, Shenzhen, China
+* 2023---Present&emsp;Research Scholar, Department of Mathematics,   
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Shenzhen International Center for Mathematics,  Southern University of Science and Technology, Shenzhen, China
 
 
 ## Academic Education
