@@ -20,7 +20,6 @@ redirect_from:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;Shenzhen International Center for Mathematics,   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;Southern University of Science and Technology, Shenzhen, China
 
-
 ## Academic Education
 
 * 2019---2023&emsp;PhD in Computational Mathematics,             
