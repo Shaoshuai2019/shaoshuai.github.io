@@ -26,11 +26,10 @@ redirect_from:
 
 ### <kbd>Recent Preprint</kbd>
 
-   * S. Chu and A. Kurganov   
-    [New Adaptive Low-Dissipation Central-Upwind Schemes](./files/Chu-Kurganov_adaptiveLDCU.pdf), submitted to ESAIM: Mathematical Modelling and Numerical Analysis.
-
    * S. Chu, A. Kurganov and R. Xin, [Low-Dissipation Central-Upwind Schemes for Compressible Multifluids](./files/Chu-Kurganov-Xin_Multifluid.pdf), submitted to Journal of Computational Physics.
 
+   * S. Chu and A. Kurganov   
+    [New Adaptive Low-Dissipation Central-Upwind Schemes](./files/Chu-Kurganov_adaptiveLDCU.pdf), submitted to ESAIM: Mathematical Modelling and Numerical Analysis.
 
   * A. Chertock, S. Chu, and  A. Kurganov, [Accurate Deterministic Projection Methods for Stiff Detonation Waves](./files/Chertock-Chu-Kurganov.pdf), to appear in Communications in Mathematical Sciences.
 
@@ -89,7 +88,7 @@ redirect_from:
 
 ## <kbd>Awards</kbd>
 
-  * 2023.06&emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the University    
+  * 2023.06 &emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the University    
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
   * 2023.05 &emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the School of Science,   
