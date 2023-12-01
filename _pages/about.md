@@ -48,3 +48,11 @@ Southern University of Science and Technology, Shenzhen, China
 
 2014.10 ---National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
 
+&nbsp;
+&nbsp;
+
+
+Publications
+======
+paper1 
+url [Download paper here](http://academicpages.github.io/files/paper2.pdf)
