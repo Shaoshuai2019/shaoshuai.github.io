@@ -29,8 +29,8 @@ redirect_from:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Department of Mathematics, Southern University of Science and Technology,   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Shenzhen, China
 
-* 2013---2017 &emsp;BS in Information and Computing Science
-           School of Mathematics and Statistics, Beijing Institute of Technology, Beijing, China
+* 2013---2017 &emsp;BS in Information and Computing Science,   
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;School of Mathematics and Statistics, Beijing Institute of Technology, Beijing, China
 
 ## Teaching Assistant Experience
   * 2023 Spring  &emsp;&ensp;ODE
