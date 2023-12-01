@@ -1,7 +1,7 @@
 ---
 title: "my paper 1"
 collection: publications
-permalink: /publication/paper
+permalink: /publication/paper1
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal of Computation Physics'
