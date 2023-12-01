@@ -90,7 +90,7 @@ redirect_from:
 ## <kbd>Awards</kbd>
 
   * 2023.06 &emsp;&ensp;Top 10 Graduates with a Postgraduate Degree of the University,    
-  &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;&ensp;Southern University of Science and Technology, Shenzhen, China
+  &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
   * 2023.05 ---Top 10 Graduates with a Postgraduate Degree of the School of Science,
 Southern University of Science and Technology, Shenzhen, China
