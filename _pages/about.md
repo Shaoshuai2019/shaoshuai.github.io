@@ -18,16 +18,16 @@ Academic Experience
 2023---Present, Research Scholar, Department of Mathematics and Shenzhen International Center for Mathematics, Southern University of Science and Technology, Shenzhen, China
 
 
-Academic Education
-======
-2019---2023 PhD in Computational Mathematics,
+## Academic Education
+
+* 2019---2023 PhD in Computational Mathematics,
           Department of Mathematics, Southern University of Science and Technology, Shenzhen, China
   
-2017---2019  MS in Computational Mathematics
+* 2017---2019  MS in Computational Mathematics
            School of Mathematics, Harbin Institute of Technology, Harbin, China 
            Department of Mathematics, Southern University of Science and Technology,Shenzhen, China
 
-2013---2017 BS in Information and Computing Science
+* 2013---2017 BS in Information and Computing Science
            School of Mathematics and Statistics, Beijing Institute of Technology, Beijing, China
 
 
@@ -46,7 +46,7 @@ Southern University of Science and Technology, Shenzhen, China
 
 * 2015.10 ---National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
 
-*2014.10 ---National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
+* 2014.10 ---National Encouragement Scholarship, Scholarship for Outstanding Students, Outstanding Students of the University, Beijing Institute of Technology, Beijing, China
 
 &nbsp;
 &nbsp;
