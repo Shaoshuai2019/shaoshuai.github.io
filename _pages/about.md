@@ -1,7 +1,7 @@
 ---
 permalink: /
 #title: "Hello! Welcome to my homepage"#&emsp;&emsp;&emsp;&emsp;
-title: "<font color=blue>Hello there, I am Shaoshuai Chu (楚少帅)!   
+title: "<font color=blue>Hello there, I am Shaoshuai Chu (楚少帅)!&emsp;&ensp;&ensp;&emsp;&ensp;&ensp;&emsp;&ensp;&ensp;&emsp;&ensp;&ensp;   
 Welcome to my homepage!</font>"
 excerpt: "About me"
 author_profile: true
