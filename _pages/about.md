@@ -36,13 +36,13 @@ redirect_from:
 
 ### <kbd>Publications in 2023 </kbd>
 
-  * S. Chu and A. Kurganov, Local Characteristic Decomposition Based Central-Upwind Scheme for Compressible Multifluids, Proceedings of Finite Volumes for Complex Applications X (Strasbourg, 2023).
+  * S. Chu and A. Kurganov, [Local Characteristic Decomposition Based Central-Upwind Scheme for Compressible Multifluids](./files/Chu-Kurganov_multifluid.pdf), Proceedings of Finite Volumes for Complex Applications X (Strasbourg, 2023).
 
   * S. Chu, O. Kovyrkina,  A. Kurganov, and  V. Ostapenko, Experimental Convergence Rate Study for Three Shock-Capturing Schemes and Development of Highly Accurate Combined Schemes, Numerical Methods for Partial Differential Equations, 39 (2023), pp. 4317-4346.
 
-  * V. A. Kolotilov, A. A. Kurganov, V. V. Ostapenko, N. A. Khandeeva and S. Chu, On the Accuracy of Shock-Capturing Schemes Calculating Gas-Dynamic Shock Waves, Computational Mathematics and Mathematical Physics, 63 (2023), pp. 1341-1349.
+  * V. A. Kolotilov, A. A. Kurganov, V. V. Ostapenko, N. A. Khandeeva and S. Chu, [On the Accuracy of Shock-Capturing Schemes Calculating Gas-Dynamic Shock Waves](./files/Chu-Kovyrkina-Kurganov-Ostapenko.pdf), Computational Mathematics and Mathematical Physics, 63 (2023), pp. 1341-1349.
 
-  * A. Chertock, S. Chu and A. Kurganov, Adaptive High-Order A-WENO Schemes Based on a New Local Smoothness Indicator, East Asian Journal on Applied Mathematics, 13 (2023), pp. 576-609.
+  * A. Chertock, S. Chu and A. Kurganov, [Adaptive High-Order A-WENO Schemes Based on a New Local Smoothness Indicator](./files/Chertock-Chu-Kurganov_AWENO.pdf), East Asian Journal on Applied Mathematics, 13 (2023), pp. 576-609.
 
   * S. Chu, A. Kurganov and R. Xin, [A Fifth-Order A-WENO Scheme Based on the Low-Dissipation Central-Upwind Fluxes](./files/Chu-Kurganov-Xin.pdf), Proceedings of the XVIII International Conference on Hyperbolic Problems: Theory, Numerics, Applications.
 
@@ -89,7 +89,7 @@ redirect_from:
 
 ## <kbd>Awards</kbd>
 
-  * 2023.06 &emsp;&ensp;Nop 10 Graduates with a Postgraduate Degree of the University    
+  * 2023.06&emsp;&ensp;Top 10 Graduates with a Postgraduate Degree of the University    
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
   * 2023.05 &emsp;&ensp;Top 10 Graduates with a Postgraduate Degree of the School of Science,   
