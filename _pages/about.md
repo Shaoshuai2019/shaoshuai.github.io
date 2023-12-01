@@ -31,16 +31,16 @@ redirect_from:
            School of Mathematics and Statistics, Beijing Institute of Technology, Beijing, China
 
 ## Teaching Assistant Experience
-  * 2023 Spring &emsp; ODE
-  * 2022 Fall   &emsp;&emsp;&ensp; Linear Algebra & Scientific Computing
+  * 2023 Spring  &emsp;&ensp;ODE
+  * 2022 Fall    &emsp;&emsp;&ensp;Linear Algebra & Scientific Computing
   * 2022 Spring  &emsp;&ensp;ODE Numerical Solutions to PDEs
-  * 2021 Fall    &emsp;&emsp;&ensp; Calculus I
-  * 2021 Spring   &emsp;&ensp;Calculus II
+  * 2021 Fall    &emsp;&emsp;&ensp;Calculus I
+  * 2021 Spring  &emsp;&ensp;Calculus II
   * 2020 Fall    &emsp;&emsp;&ensp; Linear Algebra
   * 2020 Spring  &emsp;&ensp;Calculus II
-  * 2019 Fall    &emsp;&emsp;&ensp;  Calculus I 
+  * 2019 Fall    &emsp;&emsp;&ensp;Calculus I 
   * 2019 Spring  &emsp;&ensp;Calculus II
-  * 2018 Fall   &emsp;&emsp;&ensp; Calculus I 
+  * 2018 Fall    &emsp;&emsp;&ensp;Calculus I 
   * 2018 Spring  &emsp;&ensp;Calculus II
   * 2017 Fall    &emsp;&emsp; &ensp;Calculus I 
 ## Awards
