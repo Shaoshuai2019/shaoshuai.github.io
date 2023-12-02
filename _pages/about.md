@@ -12,11 +12,7 @@ redirect_from:
 &nbsp;
 &nbsp;
 
-
-## <kbd>Academic Experience</kbd>
-## <h1>Academic Experience</h1>
-## <h1><kbd>Academic Experience</kbd></h1>
-## <font size="12" face="Times New Roman">Academic Experience</font>
+## <font size="9" face="Times New Roman">Academic Experience</font>
 
 * 2023---Present&emsp;&ensp;Research Scholar, [Department of Mathematics](https://math.sustech.edu.cn/?lang=en),   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us),   
