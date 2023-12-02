@@ -13,7 +13,7 @@ redirect_from:
 &nbsp;
 &nbsp;
 
-## <font size="5" face="Times New Roman">Academic Experience</font>
+## <font size="5">Academic Experience</font>
 
 * 2023---Present&emsp;&ensp;Research Scholar, [Department of Mathematics](https://math.sustech.edu.cn/?lang=en),   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us),   
@@ -21,7 +21,7 @@ redirect_from:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;Shenzhen, China
 
 
-## <font size="5" face="Times New Roman">Publications (in the reversed chronological order)</font>
+## <font size="5">Publications (in the reversed chronological order)</font>
 
 ### <font face="Times New Roman">Recent Preprint</font> 
 
@@ -59,7 +59,7 @@ redirect_from:
   * A. Chertock, S. Chu and A. Kurganov, [Hybrid Multifluid Algorithms Based on the Path-Conservative Central-Upwind Scheme](./files/Chertock-Chu-Kurganov_multifluids.pdf), Journal of Scientific Computing, 89 (2021), Paper No. 48, 24 pp.
 
 
-## <font size="5" face="Times New Roman">Academic Education</font>
+## <font size="5">Academic Education</font>
 
 * 2019---2023&emsp;PhD in Computational Mathematics,             
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Department of Mathematics, Southern University of Science and Technology,     
@@ -73,7 +73,7 @@ redirect_from:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Beijing, China
 
 
-## <font size="5" face="Times New Roman">Teaching Assistant Experience</font>
+## <font size="5">Teaching Assistant Experience</font>
 
   * 2023 Spring  &emsp;&ensp;ODE
   * 2022 Fall    &emsp;&emsp;&ensp;&ensp;Linear Algebra & Scientific Computing
@@ -88,7 +88,7 @@ redirect_from:
   * 2018 Spring  &emsp;&ensp;Calculus II
   * 2017 Fall    &emsp;&emsp;&ensp;&ensp;Calculus I 
 
-## <font size="5" face="Times New Roman">Awards</font>
+## <font size="5">Awards</font>
 
   * 2023.06&emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the University    
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
