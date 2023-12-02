@@ -1,7 +1,7 @@
 ---
 permalink: /
 #title: "Hello! Welcome to my homepage"#&emsp;&emsp;&emsp;&emsp;
-title: "<font color=blue>Hello there, I am Shaoshuai Chu (楚少帅)! &ensp;Welcome to my homepage!</font>"
+title: "<font color=blue face="Times New Roman">Hello there, I am Shaoshuai Chu (楚少帅)! &ensp;Welcome to my homepage!</font>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,16 +13,16 @@ redirect_from:
 &nbsp;
 
 ## <font size="5" face="Times New Roman">Academic Experience</font>
-<font face="Times New Roman">
+
 * 2023---Present&emsp;&ensp;Research Scholar, [Department of Mathematics](https://math.sustech.edu.cn/?lang=en),   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us),   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[Southern University of Science and Technology](https://www.sustech.edu.cn/en/),   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;Shenzhen, China
-</font>
+
 
 ## <font size="5" face="Times New Roman">Publications (in the reversed chronological order)</font>
 
-### <kbd>Recent Preprint</kbd>
+### <font face="Times New Roman">Recent Preprint</font> 
 
    * S. Chu, A. Kurganov and R. Xin, [Low-Dissipation Central-Upwind Schemes for Compressible Multifluids](./files/Chu-Kurganov-Xin_Multifluid.pdf), submitted to Journal of Computational Physics.
 
@@ -31,7 +31,7 @@ redirect_from:
 
   * A. Chertock, S. Chu, and  A. Kurganov, [Accurate Deterministic Projection Methods for Stiff Detonation Waves](./files/Chertock-Chu-Kurganov.pdf), to appear in Communications in Mathematical Sciences.
 
-### <kbd>Publications in 2023 </kbd>
+### <font face="Times New Roman">Publications in 2023</font> 
 
   * S. Chu and A. Kurganov, [Local Characteristic Decomposition Based Central-Upwind Scheme for Compressible Multifluids](./files/Chu-Kurganov_multifluid.pdf), Proceedings of Finite Volumes for Complex Applications X (Strasbourg, 2023).
 
@@ -49,12 +49,11 @@ redirect_from:
 
   * A. Chertock, S. Chu, M. Herty, A. Kurganov and M. Lukacova, [Local Characteristic Decomposition Based Central-Upwind Scheme](./files/Chertock-Chu-Herty-Kurganov-Lukacova.pdf), Journal of Computational Physics, 473 (2023), Paper No. 111718, 24 pp.
 
-### <kbd>Publications in 2022 </kbd>
-
+### <font face="Times New Roman">Publications in 2022</font> 
 
   * S. Chu, A. Kurganov and M. Na, [Fifth-Order A-WENO Schemes Based on the Path-Conservative Central-Upwind Method](./files/Chu-Kurganov-Na.pdf), Journal of Computational Physics, 469 (2022), Paper No. 111508, 22 pp.
 
-### <kbd>Publications in 2021 </kbd>
+### <font face="Times New Roman">Publications in 2021</font> 
 
   * A. Chertock, S. Chu and A. Kurganov, [Hybrid Multifluid Algorithms Based on the Path-Conservative Central-Upwind Scheme](./files/Chertock-Chu-Kurganov_multifluids.pdf), Journal of Scientific Computing, 89 (2021), Paper No. 48, 24 pp.
 
