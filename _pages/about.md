@@ -16,6 +16,7 @@ redirect_from:
 
 ## <kbd>Academic Experience</kbd>
 
+
 * 2023---Present&emsp;&ensp;Research Scholar, [Department of Mathematics](https://math.sustech.edu.cn/?lang=en),   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us),   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[Southern University of Science and Technology](https://www.sustech.edu.cn/en/),   
@@ -35,7 +36,6 @@ redirect_from:
 ### <kbd>Publications in 2023 </kbd>
 
   * S. Chu and A. Kurganov, [Local Characteristic Decomposition Based Central-Upwind Scheme for Compressible Multifluids](./files/Chu-Kurganov_multifluid.pdf), Proceedings of Finite Volumes for Complex Applications X (Strasbourg, 2023).
-
 
   * S. Chu, O. Kovyrkina,  A. Kurganov, and  V. Ostapenko, [Experimental Convergence Rate Study for Three Shock-Capturing Schemes and Development of Highly Accurate Combined Schemes](./files/Chu-Kovyrkina-Kurganov-Ostapenko.pdf), Numerical Methods for Partial Differential Equations, 39 (2023), pp. 4317-4346.
 
@@ -88,7 +88,7 @@ redirect_from:
 
 ## <kbd>Awards</kbd>
 
-  * 2023.06 &emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the University    
+  * 2023.06&emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the University    
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
   * 2023.05 &emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the School of Science,   
