@@ -43,7 +43,7 @@ redirect_from:
   * S. Chu, A. Kurganov and R. Xin, [A Fifth-Order A-WENO Scheme Based on the Low-Dissipation Central-Upwind Fluxes](./files/Chu-Kurganov-Xin.pdf), Proceedings of the XVIII International Conference on Hyperbolic Problems: Theory, Numerics, Applications.
 
  * S. Chu and A. Kurganov, [Local Characteristic Decomposition Based Central-Upwind Scheme for Compressible Multifluids](./files/Chu-Kurganov_multifluid.pdf), Proceedings of Finite Volumes for Complex Applications X (Strasbourg, 2023).
- 
+
   * S. Chu, A. Kurganov, S. Mohammadian and Z. D.  Zheng, [Fifth-Order A-WENO Path-Conservative Central-Upwind Scheme for Behavioral Non-Equilibrium Traffic Models](./files/Chu-Kurganov-Mohammadian-Zheng.pdf), Communications in Computational Physics, 33 (2023), pp. 692-732.
 
   * S. Chu and A. Kurganov, [Flux Globalization Based Well-Balanced Central-Upwind Scheme for One-Dimensional Blood Flow Models](./files/Chu-Kurganov.pdf), Calcolo, 60 (2023), Paper No. 2, 35 pp.
@@ -90,7 +90,7 @@ redirect_from:
 
 ## <font size="5">Awards</font>
 
-  * 2023.06&emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the University    
+  * 2023.06 &emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the University    
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
   * 2023.05 &emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the School of Science,   
