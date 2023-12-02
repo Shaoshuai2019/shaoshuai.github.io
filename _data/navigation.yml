@@ -1,10 +1,10 @@
 # main links links
 main:
  - title: "Publications"
-     url: /files/paper1.pdf
+  #   url: /files/paper1.pdf
   #  url: /files/List_Publications.pdf
   #  url: /publications/
-  #  url: https://scholar.google.com/citations?user=CumyZ2QAAAAJ&hl=zh-CN
+    url: https://scholar.google.com/citations?user=CumyZ2QAAAAJ&hl=zh-CN
      
 
   #- title: "Talks"
