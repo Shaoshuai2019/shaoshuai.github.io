@@ -48,9 +48,10 @@ redirect_from:
 
   * S. Chu and A. Kurganov, [Flux Globalization Based Well-Balanced Central-Upwind Scheme for One-Dimensional Blood Flow Models](./files/Chu-Kurganov.pdf), Calcolo, 60 (2023), Paper No. 2, 35 pp.
 
+  * A. Chertock, S. Chu, M. Herty, A. Kurganov and M. Lukacova, [Local Characteristic Decomposition Based Central-Upwind Scheme](./files/Chertock-Chu-Herty-Kurganov-Lukacova.pdf), Journal of Computational Physics, 473 (2023), Paper No. 111718, 24 pp.
+
 ### <kbd>Publications in 2022 </kbd>
 
-  * A. Chertock, S. Chu, M. Herty, A. Kurganov and M. Lukacova, [Local Characteristic Decomposition Based Central-Upwind Scheme](./files/Chertock-Chu-Herty-Kurganov-Lukacova.pdf), Journal of Computational Physics, 473 (2023), Paper No. 111718, 24 pp.
 
   * S. Chu, A. Kurganov and M. Na, [Fifth-Order A-WENO Schemes Based on the Path-Conservative Central-Upwind Method](./files/Chu-Kurganov-Na.pdf), Journal of Computational Physics, 469 (2022), Paper No. 111508, 22 pp.
 
