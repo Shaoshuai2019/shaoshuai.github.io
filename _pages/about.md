@@ -61,7 +61,7 @@ redirect_from:
 
 ## <font size="5">Academic Education</font>
 
-* 2019---2023&emsp;PhD in Computational Mathematics,             
+* 2019---2023 &emsp;PhD in Computational Mathematics,             
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Department of Mathematics, Southern University of Science and Technology,     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Shenzhen, China
 * 2017---2019 &emsp;MS in Computational Mathematics,   
