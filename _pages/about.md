@@ -12,14 +12,14 @@ redirect_from:
 &nbsp;
 &nbsp;
 
-## <font size="6" face="Times New Roman">Academic Experience</font>
+## <font size="5" face="Times New Roman">Academic Experience</font>
 
 * 2023---Present&emsp;&ensp;Research Scholar, [Department of Mathematics](https://math.sustech.edu.cn/?lang=en),   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us),   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[Southern University of Science and Technology](https://www.sustech.edu.cn/en/),   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;Shenzhen, China
 
-## <kbd>Publications (in the reversed chronological order)</kbd>
+## <font size="5" face="Times New Roman">Publications (in the reversed chronological order)</font>
 
 ### <kbd>Recent Preprint</kbd>
 
@@ -57,7 +57,8 @@ redirect_from:
 
   * A. Chertock, S. Chu and A. Kurganov, [Hybrid Multifluid Algorithms Based on the Path-Conservative Central-Upwind Scheme](./files/Chertock-Chu-Kurganov_multifluids.pdf), Journal of Scientific Computing, 89 (2021), Paper No. 48, 24 pp.
 
-## <kbd>Academic Education</kbd>
+
+## <font size="5" face="Times New Roman">Academic Education</font>
 
 * 2019---2023&emsp;PhD in Computational Mathematics,             
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Department of Mathematics, Southern University of Science and Technology,     
@@ -70,7 +71,9 @@ redirect_from:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;School of Mathematics and Statistics,Beijing Institute of Technology,   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Beijing, China
 
-## <kbd>Teaching Assistant Experience</kbd>
+
+## <font size="5" face="Times New Roman">Teaching Assistant Experience</font>
+
   * 2023 Spring  &emsp;&ensp;ODE
   * 2022 Fall    &emsp;&emsp;&ensp;&ensp;Linear Algebra & Scientific Computing
   * 2022 Spring  &emsp;&ensp;ODE & Numerical Solutions to PDEs
@@ -84,7 +87,7 @@ redirect_from:
   * 2018 Spring  &emsp;&ensp;Calculus II
   * 2017 Fall    &emsp;&emsp;&ensp;&ensp;Calculus I 
 
-## <kbd>Awards</kbd>
+## <font size="5" face="Times New Roman">Awards</font>
 
   * 2023.06&emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the University    
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
