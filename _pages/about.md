@@ -27,6 +27,8 @@ redirect_from:
 
    * S. Chu, A. Kurganov and R. Xin, [New More Efficient A-WENO Schemes](./files/Chu-Kurganov-Xin_NewAWENO.pdf), submitted to Journal of Scientific Computing.
 
+   * S. Chu, A. Kurganov and R. Xin, [New More Efficient A-WENO Schemes](./files/Chu-Kurganov-Xin_NewAWENO.pdf), submitted to Journal of Scientific Computing.
+
    * S. Chu, A. Kurganov and R. Xin, [Low-Dissipation Central-Upwind Schemes for Compressible Multifluids](./files/Chu-Kurganov-Xin_Multifluid.pdf), submitted to Journal of Computational Physics.
 
    * S. Chu and A. Kurganov   
