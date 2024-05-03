@@ -29,7 +29,7 @@ redirect_from:
 
    * S. Mohammadian, Z. Zheng, S. Chu and A. Kurganov, [Path-Conservative Central-Upwind Schemes for the Non-Conservative NET-RAT Traffic Flow Model](./files/Chu-Kurganov-Xin-New-AWENO.pdf), submitted to Computers and Fluids.
 
-   * S. Chu, A. Kurganov and R. Xin, [New More Efficient A-WENO Schemes](./files/Chu-Kurganov-Xin-New-AWENO.pdf), submitted to Journal of Scientific Computing.
+   * S. Chu, A. Kurganov and R. Xin, [New More Efficient A-WENO Schemes](./files/CKX_AWENO.pdf), submitted to Journal of Scientific Computing.
 
    * S. Chu, A. Kurganov and R. Xin, [Low-Dissipation Central-Upwind Schemes for Compressible Multifluids](./files/Chu-Kurganov-Xin_Multifluid.pdf), submitted to Journal of Computational Physics.
 
