@@ -25,7 +25,7 @@ redirect_from:
 
 ### <font face="Times New Roman">Recent Preprint</font> 
 
-   * S. Chu, M. Herty and A. Kurganov, [Novel Local Characteristic Decomposition Based Path-Conservative Central-Upwind Schemes](./files/Chu-Kurganov-Xin_WB_AWENO.pdf), submitted to Beijing Journal of Pure and Applied Mathematics.
+   * S. Chu, M. Herty and A. Kurganov, [Novel Local Characteristic Decomposition Based Path-Conservative Central-Upwind Schemes](./files/CHK.pdf), submitted to Journal of Computational Physics.
 
    * S. Chu, A. Kurganov and R. Xin, [A Well-Balanced Fifth-Order A-WENO Scheme Based on Flux Globalization](./files/Chu-Kurganov-Xin_WB_AWENO.pdf), submitted to Beijing Journal of Pure and Applied Mathematics.
 
