@@ -102,16 +102,16 @@ redirect_from:
 
 ## <font size="5">Awards</font>
 
-  * 2023.06 &emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the University,    
+  * 2023.06 &emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the University    
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
-  * 2023.05 &emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the School of Science,   
+  * 2023.05 &emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the School of Science   
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
   * 2022.10 &emsp;&ensp; National Scholarship   
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
-  * 2016.10 &emsp;&ensp; National Encouragement Scholarship,   
+  * 2016.10 &emsp;&ensp; National Encouragement Scholarship
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Scholarship for Outstanding Students  
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Outstanding Students of the University    
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Beijing Institute of Technology, Beijing, China
