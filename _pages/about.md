@@ -116,6 +116,11 @@ redirect_from:
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Outstanding Students of the University    
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Beijing Institute of Technology, Beijing, China
 
+  * 2014.10 &emsp;&ensp; National Encouragement Scholarship    
+  &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Scholarship for Outstanding Students   
+  &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Outstanding Students of the University  
+  &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Beijing Institute of Technology, Beijing, China
+
   * 2016.05 &emsp;&ensp; Honorable Mention in MCM/ICM    
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Beijing Institute of Technology, Beijing, China
 
