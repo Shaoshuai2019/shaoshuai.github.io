@@ -15,14 +15,13 @@ redirect_from:
 
 ## <font size="5">Academic Experience</font>
 
-* 2024.06---Present&emsp;&ensp;Research Scholar, [Department of Mathematics](https://math.sustech.edu.cn/?lang=en),   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[RWTH Aachen University](https://www.sustech.edu.cn/en/),   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;Aachen, Germany
+* 2024---Present&emsp;&ensp;Research Scholar, [Department of Mathematics](https://math.sustech.edu.cn/?lang=en),   
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[RWTH Aachen University](https://www.sustech.edu.cn/en/), Aachen, Germany
 
-* 2023.08---2024.05&emsp;&ensp;Research Scholar, [Department of Mathematics](https://math.sustech.edu.cn/?lang=en),   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us),   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[Southern University of Science and Technology](https://www.sustech.edu.cn/en/),   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;Shenzhen, China
+* 2023---2024&emsp;&ensp;Research Scholar, [Department of Mathematics](https://math.sustech.edu.cn/?lang=en),   
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us),   
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[Southern University of Science and Technology](https://www.sustech.edu.cn/en/),   
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;Shenzhen, China
 
 
 ## <font size="5">Publications (in the reversed chronological order)</font>
