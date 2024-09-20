@@ -41,18 +41,20 @@ redirect_from:
 
 
 
-### <font face="Times New Roman">Publications in 2023</font> 
+### <font face="Times New Roman">Publications in 2024</font> 
 
-   * S. Chu, A. Kurganov and R. Xin, [A Well-Balanced Fifth-Order A-WENO Scheme Based on Flux Globalization](./files/Chu-Kurganov-Xin_WB_AWENO.pdf), submitted to Beijing Journal of Pure and Applied Mathematics.
+  * S. Mohammadian, Z. D.  Zheng, S. Chu and A. Kurganov, S. Mohammadian and Z. D.  Zheng,  [Path-Conservative Central-Upwind Schemes for the Non-Conservative NET-RAT Traffic Flow Model](./files/Chu-Kurganov-Mohammadian-Zheng.pdf), to appear in  Communications in Mathematics and Applications.
+
+   * S. Chu, A. Kurganov and R. Xin, [A Well-Balanced Fifth-Order A-WENO Scheme Based on Flux Globalization](./files/Chu-Kurganov-Xin_WB_AWENO.pdf), to appear in Beijing Journal of Pure and Applied Mathematics.
 
 
    * S. Chu, A. Kurganov and R. Xin, [Low-Dissipation Central-Upwind Schemes for Compressible Multifluids](./files/Chu-Kurganov-Xin_Multifluid.pdf), Journal of Computational Physics, 518 (2024), Paper No. 113311, 35 pp.
 
-   * A. Chertock, S. Chu, and  A. Kurganov, [Accurate Deterministic Projection Methods for Stiff Detonation Waves](./files/Chertock-Chu-Kurganov.pdf), Communications in Mathematical Sciences, 22 (2024), pp. 871-910.
+   * A. Chertock, S. Chu and  A. Kurganov, [Accurate Deterministic Projection Methods for Stiff Detonation Waves](./files/Chertock-Chu-Kurganov.pdf), Communications in Mathematical Sciences, 22 (2024), pp. 871-910.
 
 ### <font face="Times New Roman">Publications in 2023</font> 
 
-  * S. Chu, O. Kovyrkina,  A. Kurganov, and  V. Ostapenko, [Experimental Convergence Rate Study for Three Shock-Capturing Schemes and Development of Highly Accurate Combined Schemes](./files/Chu-Kovyrkina-Kurganov-Ostapenko.pdf), Numerical Methods for Partial Differential Equations, 39 (2023), pp. 4317-4346.
+  * S. Chu, O. Kovyrkina,  A. Kurganov and  V. Ostapenko, [Experimental Convergence Rate Study for Three Shock-Capturing Schemes and Development of Highly Accurate Combined Schemes](./files/Chu-Kovyrkina-Kurganov-Ostapenko.pdf), Numerical Methods for Partial Differential Equations, 39 (2023), pp. 4317-4346.
 
   * V. A. Kolotilov, A. A. Kurganov, V. V. Ostapenko, N. A. Khandeeva and S. Chu, [On the Accuracy of Shock-Capturing Schemes Calculating Gas-Dynamic Shock Waves](./files/Kolotilov-Kurganov-Ostapenko-Khandeeva-Chu.pdf), Computational Mathematics and Mathematical Physics, 63 (2023), pp. 1341-1349.
 
