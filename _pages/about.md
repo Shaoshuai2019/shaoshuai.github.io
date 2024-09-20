@@ -38,7 +38,7 @@ redirect_from:
    * S. Chu, A. Kurganov and R. Xin, [New More Efficient A-WENO Schemes](./files/Chu_Kurganov_Xin_New.pdf), submitted to Journal of Scientific Computing.
 
    * S. Chu and A. Kurganov   
-    [New Adaptive Low-Dissipation Central-Upwind Schemes](./files/Chu-Kurganov_adaptiveLDCU.pdf), submitted to ESAIM: Mathematical Modelling and Numerical Analysis.
+    [New Adaptive Low-Dissipation Central-Upwind Schemes](./files/Chu-Kurganov_adaptiveLDCU.pdf), submitted to Applied Numerical Mathematics.
 
 
 
