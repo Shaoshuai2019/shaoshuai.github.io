@@ -42,7 +42,11 @@ redirect_from:
    * S. Chu and A. Kurganov   
     [New Adaptive Low-Dissipation Central-Upwind Schemes](./files/Chu-Kurganov_adaptiveLDCU.pdf), submitted to ESAIM: Mathematical Modelling and Numerical Analysis.
 
-  * A. Chertock, S. Chu, and  A. Kurganov, [Accurate Deterministic Projection Methods for Stiff Detonation Waves](./files/Chertock-Chu-Kurganov.pdf), to appear in Communications in Mathematical Sciences.
+
+
+### <font face="Times New Roman">Publications in 2023</font> 
+
+   * A. Chertock, S. Chu, and  A. Kurganov, [Accurate Deterministic Projection Methods for Stiff Detonation Waves](./files/Chertock-Chu-Kurganov.pdf), Communications in Mathematical Sciences, 22 (2024), pp. 871-910.
 
 ### <font face="Times New Roman">Publications in 2023</font> 
 
