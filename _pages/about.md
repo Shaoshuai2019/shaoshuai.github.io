@@ -37,12 +37,11 @@ redirect_from:
 
    * S. Chu, A. Kurganov and R. Xin, [New More Efficient A-WENO Schemes](./files/Chu_Kurganov_Xin_New.pdf), submitted to Journal of Scientific Computing.
 
-   * S. Chu and A. Kurganov   
-    [New Adaptive Low-Dissipation Central-Upwind Schemes](./files/Chu-Kurganov_adaptiveLDCU.pdf), submitted to Applied Numerical Mathematics.
-
-
 
 ### <font face="Times New Roman">Publications in 2024</font> 
+
+  * S. Chu and A. Kurganov   
+    [New Adaptive Low-Dissipation Central-Upwind Schemes](./files/Chu-Kurganov_adaptiveLDCU.pdf), to appear in Applied Numerical Mathematics.
 
   * S. Mohammadian, Z. D.  Zheng, S. Chu and A. Kurganov, [Path-Conservative Central-Upwind Schemes for the Non-Conservative NET-RAT Traffic Flow Model](./files/Mohammadian-Zheng-Chu-Kurganov.pdf), to appear in  Communications in Mathematics and Applications.
 
