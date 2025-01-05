@@ -43,9 +43,10 @@ redirect_from:
    * S. Chu and A. Kurganov   
     [New Adaptive Low-Dissipation Central-Upwind Schemes](./files/Chu-Kurganov_adaptiveLDCU.pdf), Applied Numerical Mathematics, 209 (2025), pp. 155-170.
 
-### <font face="Times New Roman">Publications in 2024</font> 
+   * S. Mohammadian, Z. D.  Zheng, S. Chu and A. Kurganov, [Path-Conservative Central-Upwind Schemes for the Non-Conservative NET-RAT Traffic Flow Model](./files/Mohammadian-Zheng-Chu-Kurganov.pdf), Communications in Mathematics and Applications, 179 (2025), pp. 212-228.
 
-  * S. Mohammadian, Z. D.  Zheng, S. Chu and A. Kurganov, [Path-Conservative Central-Upwind Schemes for the Non-Conservative NET-RAT Traffic Flow Model](./files/Mohammadian-Zheng-Chu-Kurganov.pdf), to appear in  Communications in Mathematics and Applications.
+### <font face="Times New Roman">Publications in 2024</font> 
+=
 
    * S. Chu, A. Kurganov and R. Xin, [A Well-Balanced Fifth-Order A-WENO Scheme Based on Flux Globalization](./files/Chu-Kurganov-Xin_WB_AWENO.pdf), to appear in Beijing Journal of Pure and Applied Mathematics.
 
