@@ -38,14 +38,17 @@ redirect_from:
    * S. Chu, A. Kurganov and R. Xin, [New More Efficient A-WENO Schemes](./files/Chu_Kurganov_Xin_New.pdf), submitted to Journal of Scientific Computing.
 
 ### <font face="Times New Roman">Publications in 2025</font> 
-   * S. Chu, M. Herty and A. Kurganov, [Novel Local Characteristic Decomposition Based Path-Conservative Central-Upwind Schemes](./files/CHK.pdf), Journal of Computational Physics, 524 (2025), Paper No. 113692, 24 pp.
+
+   * S. Chu, M. Herty and A. Kurganov, [Novel Local Characteristic Decomposition Based Path-Conservative Central-Upwind Schemes](./files/Chu_Herty_Kurganov_LCDPCCU.pdf), Journal of Computational Physics, 524 (2025), Paper No. 113692, 24 pp.
 
    * S. Chu and A. Kurganov   
     [New Adaptive Low-Dissipation Central-Upwind Schemes](./files/Chu-Kurganov_adaptiveLDCU.pdf), Applied Numerical Mathematics, 209 (2025), pp. 155-170.
 
+   * S. Mohammadian, Z. D.  Zheng, S. Chu and A. Kurganov, [Numerical Study of the Non-Conservative NET-RAT Traffic Flow Model by Path-Conservative Central-Upwind Schemes](./files/Mohammadian-Zheng-Chu-Kurganov.pdf), Communications in Mathematics and Applications, 179 (2025), pp. 212-228.
+
 ### <font face="Times New Roman">Publications in 2024</font> 
 
-   * S. Mohammadian, Z. D.  Zheng, S. Chu and A. Kurganov, [Path-Conservative Central-Upwind Schemes for the Non-Conservative NET-RAT Traffic Flow Model](./files/Mohammadian-Zheng-Chu-Kurganov.pdf), to appear in  Communications in Mathematics and Applications.
+   
 
    * S. Chu, A. Kurganov and R. Xin, [A Well-Balanced Fifth-Order A-WENO Scheme Based on Flux Globalization](./files/Chu-Kurganov-Xin_WB_AWENO.pdf), to appear in Beijing Journal of Pure and Applied Mathematics.
 
