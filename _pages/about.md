@@ -41,8 +41,7 @@ redirect_from:
 
    * S. Chu, M. Herty and A. Kurganov, [Novel Local Characteristic Decomposition Based Path-Conservative Central-Upwind Schemes](./files/Chu_Herty_Kurganov_LCDPCCU.pdf), Journal of Computational Physics, 524 (2025), Paper No. 113692, 24 pp.
 
-   * S. Chu and A. Kurganov   
-    [New Adaptive Low-Dissipation Central-Upwind Schemes](./files/Chu-Kurganov_adaptiveLDCU.pdf), Applied Numerical Mathematics, 209 (2025), pp. 155-170.
+   * S. Chu and A. Kurganov, [New Adaptive Low-Dissipation Central-Upwind Schemes](./files/Chu-Kurganov_adaptiveLDCU.pdf), Applied Numerical Mathematics, 209 (2025), pp. 155-170.
 
    * S. Mohammadian, Z. D.  Zheng, S. Chu and A. Kurganov, [Numerical Study of the Non-Conservative NET-RAT Traffic Flow Model by Path-Conservative Central-Upwind Schemes](./files/Mohammadian-Zheng-Chu-Kurganov.pdf), Communications in Mathematics and Applications, 179 (2025), pp. 212-228.
 
