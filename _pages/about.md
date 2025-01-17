@@ -27,6 +27,9 @@ redirect_from:
 ## <font size="5">Publications (in the reversed chronological order)</font>
 
 ### <font face="Times New Roman">Recent Preprint</font> 
+   * S. Chu, M. Herty, M. Lukacova and Y. Zhou, [Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Xin.pdf), submitted to Communications in Computational Physics. 
+
+
    * S. Chu, A. Kurganov, M. Na and R. Xin, [Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Xin.pdf), submitted to Communications in Computational Physics. 
    
    * S. Chu, A. Kurganov, S. Mohammadian and Z. D.  Zheng, [Central-Upwind Scheme for the Phase-Transition Traffic Flow Model](./files/CKMZ_PTM.pdf), submitted to Journal of Computational Physics.
