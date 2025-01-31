@@ -36,8 +36,6 @@ redirect_from:
 
    * S. Chu, A. Kurganov and R. Xin, [New Low-Dissipation Central-Upwind Schemes. Part II](./files/CKX_Ustar.pdf), submitted to Journal of Scientific Computing.
    
-   * S. Chu, Igor Kliakhandler and A. Kurganov, [On the Gelfand Problem and Viscosity Matrices for Two-Dimensional Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov_Final.pdf), submitted to Nonlinearity.
-
    * S. Chu, A. Kurganov and R. Xin, [New More Efficient A-WENO Schemes](./files/Chu_Kurganov_Xin_New.pdf), submitted to Journal of Scientific Computing.
 
 ### <font face="Times New Roman">Publications in 2025</font> 
@@ -50,7 +48,8 @@ redirect_from:
 
 ### <font face="Times New Roman">Publications in 2024</font> 
 
-   
+   * S. Chu, Igor Kliakhandler and A. Kurganov, [On the Gelfand Problem and Viscosity Matrices for Two-Dimensional Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov.pdf), Siberian Electronic Mathematical Reports, 21 (2024), pp. 77-90.
+
 
    * S. Chu, A. Kurganov and R. Xin, [A Well-Balanced Fifth-Order A-WENO Scheme Based on Flux Globalization](./files/Chu-Kurganov-Xin_WB_AWENO.pdf), to appear in Beijing Journal of Pure and Applied Mathematics.
 
