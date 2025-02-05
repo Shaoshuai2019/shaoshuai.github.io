@@ -27,7 +27,7 @@ redirect_from:
 ## <font size="5">Publications (in the reversed chronological order)</font>
 
 ### <font face="Times New Roman">Recent Preprint</font> 
-   * S. Chu, M. Herty, M. Lukacova and Y. Zhou, [Solving Random Hyperbolic Conservation Laws Using Linear Programming](./files/Chu_Herty_Lukacova_Zhu.pdf), submitted to SIAM Journal on Applied Mathematics. 
+   * S. Chu, M. Herty, M. Lukacova and Y. Zhou, [Solving Random Hyperbolic Conservation Laws Using Linear Programming](./files/Chu_Herty_Lukacova_Zhu.pdf), submitted to SIAM Journal on Scientific Computing. 
 
 
    * S. Chu, A. Kurganov, M. Na and R. Xin, [Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Xin.pdf), submitted to Communications in Computational Physics. 
