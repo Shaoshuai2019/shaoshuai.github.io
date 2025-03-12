@@ -39,7 +39,7 @@ redirect_from:
 
 ### <font face="Times New Roman">Publications in 2025</font> 
   
-   * S. Chu, A. Kurganov and R. Xin, [New Low-Dissipation Central-Upwind Schemes. Part II](./files/CKX_Ustar.pdf), Journal of Scientific Computing, 89 (2021), Paper No. 33, 17 pp..
+   * S. Chu, A. Kurganov and R. Xin, [New Low-Dissipation Central-Upwind Schemes. Part II](./files/CKX_Ustar.pdf), Journal of Scientific Computing, 193 (2025), Paper No. 33, 17 pp..
 
    * S. Chu, M. Herty and A. Kurganov, [Novel Local Characteristic Decomposition Based Path-Conservative Central-Upwind Schemes](./files/Chu_Herty_Kurganov_LCDPCCU.pdf), Journal of Computational Physics, 524 (2025), Paper No. 113692, 24 pp.
 
