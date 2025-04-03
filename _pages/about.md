@@ -27,6 +27,8 @@ redirect_from:
 ## <font size="5">Publications (in the reversed chronological order)</font>
 
 ### <font face="Times New Roman">Recent Preprint</font> 
+   * S. Chu, M. Herty and E. F. Toro, [High-Order Flux Splitting Schemes for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Toro.pdf), submitted to Computers & Fluids. 
+
    * S. Chu, M. Herty, M. Lukacova and Y. Zhou, [Solving Random Hyperbolic Conservation Laws Using Linear Programming](./files/Chu_Herty_Lukacova_Zhu.pdf), submitted to SIAM Journal on Scientific Computing. 
 
 
