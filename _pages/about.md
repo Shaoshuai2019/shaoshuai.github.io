@@ -27,25 +27,36 @@ redirect_from:
 ## <font size="5">Publications (in the reversed chronological order)</font>
 
 ### <font face="Times New Roman">Recent Preprint</font> 
+   * S. Chu, M. Herty and A. Kurganov, [Numerical Analysis of Stabilization for Random Hyperbolic Systems of Balance Laws](./files/Chu-Herty-Kurganov.pdf), submitted to International Journal of Control. 
+
+ 
+   * S. Chu, M. Herty and E. F. Toro, [High-Order Flux Splitting Schemes for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Toro.pdf), submitted to Computers & Fluids. 
+
+   * S. Chu, M. Herty, M. Lukacova and Y. Zhou, [Solving Random Hyperbolic Conservation Laws Using Linear Programming](./files/Chu_Herty_Lukacova_Zhu.pdf), submitted to SIAM Journal on Scientific Computing. 
+
+
+   * S. Chu, A. Kurganov, M. Na and R. Xin, [Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Xin.pdf), submitted to Annals of Applied Mathematics. 
+   
    * S. Chu, A. Kurganov, S. Mohammadian and Z. D.  Zheng, [Central-Upwind Scheme for the Phase-Transition Traffic Flow Model](./files/CKMZ_PTM.pdf), submitted to Journal of Computational Physics.
 
-   * S. Chu, A. Kurganov and R. Xin, [New Low-Dissipation Central-Upwind Schemes. Part II](./files/CKX_Ustar.pdf), submitted to Journal of Scientific Computing.
    
-   * S. Chu, Igor Kliakhandler and A. Kurganov, [On the Gelfand Problem and Viscosity Matrices for Two-Dimensional Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov_Final.pdf), submitted to Nonlinearity.
-
-   * S. Chu, A. Kurganov and R. Xin, [New More Efficient A-WENO Schemes](./files/Chu_Kurganov_Xin_New.pdf), submitted to Journal of Scientific Computing.
+   * S. Chu, A. Kurganov and R. Xin, [New More Efficient A-WENO Schemes](./files/Chu-Kurganov-Xin-New.pdf), submitted to Journal of Scientific Computing.
 
 ### <font face="Times New Roman">Publications in 2025</font> 
-   * S. Chu, M. Herty and A. Kurganov, [Novel Local Characteristic Decomposition Based Path-Conservative Central-Upwind Schemes](./files/CHK.pdf), to appear in Journal of Computational Physics.
+  
+   * S. Chu, A. Kurganov and R. Xin, [New Low-Dissipation Central-Upwind Schemes. Part II](./files/CKX_Ustar.pdf), Journal of Scientific Computing, 193 (2025), Paper No. 33, 17 pp.
 
-   * S. Chu and A. Kurganov   
-    [New Adaptive Low-Dissipation Central-Upwind Schemes](./files/Chu-Kurganov_adaptiveLDCU.pdf), Applied Numerical Mathematics, 209 (2025), pp. 155-170.
+   * S. Chu, M. Herty and A. Kurganov, [Novel Local Characteristic Decomposition Based Path-Conservative Central-Upwind Schemes](./files/Chu_Herty_Kurganov_LCDPCCU.pdf), Journal of Computational Physics, 524 (2025), Paper No. 113692, 24 pp.
+
+   * S. Chu, A. Kurganov and R. Xin, [A Well-Balanced Fifth-Order A-WENO Scheme Based on Flux Globalization](./files/Chu-Kurganov-Xin_WB_AWENO.pdf), Beijing Journal of Pure and Applied Mathematics, 2 (2025), pp. 87-113.
+
+   * S. Chu and A. Kurganov, [New Adaptive Low-Dissipation Central-Upwind Schemes](./files/Chu-Kurganov_adaptiveLDCU.pdf), Applied Numerical Mathematics, 209 (2025), pp. 155-170.
+
+   * S. Mohammadian, Z. D.  Zheng, S. Chu and A. Kurganov, [Numerical Study of the Non-Conservative NET-RAT Traffic Flow Model by Path-Conservative Central-Upwind Schemes](./files/Mohammadian-Zheng-Chu-Kurganov.pdf), Computers and Mathematics with Applications, 179 (2025), pp. 212-228.
 
 ### <font face="Times New Roman">Publications in 2024</font> 
 
-  * S. Mohammadian, Z. D.  Zheng, S. Chu and A. Kurganov, [Path-Conservative Central-Upwind Schemes for the Non-Conservative NET-RAT Traffic Flow Model](./files/Mohammadian-Zheng-Chu-Kurganov.pdf), to appear in  Communications in Mathematics and Applications.
-
-   * S. Chu, A. Kurganov and R. Xin, [A Well-Balanced Fifth-Order A-WENO Scheme Based on Flux Globalization](./files/Chu-Kurganov-Xin_WB_AWENO.pdf), to appear in Beijing Journal of Pure and Applied Mathematics.
+   * S. Chu, Igor Kliakhandler and A. Kurganov, [On the Gelfand Problem and Viscosity Matrices for Two-Dimensional Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov.pdf), Siberian Electronic Mathematical Reports, 21 (2024), pp. 78-91.
 
 
    * S. Chu, A. Kurganov and R. Xin, [Low-Dissipation Central-Upwind Schemes for Compressible Multifluids](./files/Chu_Kurganov_Xin.pdf), Journal of Computational Physics, 518 (2024), Paper No. 113311, 35 pp.
@@ -89,7 +100,7 @@ redirect_from:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Department of Mathematics, Southern University of Science and Technology,   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Shenzhen, China
 * 2013---2017&emsp;BS in Information and Computing Science,   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;School of Mathematics and Statistics,Beijing Institute of Technology,   
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;School of Mathematics and Statistics, Beijing Institute of Technology,   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Beijing, China
 
 
