@@ -40,9 +40,10 @@ redirect_from:
    * S. Chu, A. Kurganov, S. Mohammadian and Z. D.  Zheng, [Central-Upwind Scheme for the Phase-Transition Traffic Flow Model](./files/CKMZ_PTM.pdf), submitted to Journal of Computational Physics.
 
    
-   * S. Chu, A. Kurganov and R. Xin, [New More Efficient A-WENO Schemes](./files/Chu-Kurganov-Xin-New.pdf), submitted to Journal of Scientific Computing.
 
 ### <font face="Times New Roman">Publications in 2025</font> 
+
+   * S. Chu, A. Kurganov and R. Xin, [New More Efficient A-WENO Schemes](./files/Chu-Kurganov-Xin-New.pdf), to appear in Journal of Scientific Computing.
   
    * S. Chu, A. Kurganov and R. Xin, [New Low-Dissipation Central-Upwind Schemes. Part II](./files/CKX_Ustar.pdf), Journal of Scientific Computing, 193 (2025), Paper No. 33, 17 pp.
 
