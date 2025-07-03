@@ -63,6 +63,9 @@ redirect_from:
 
    * A. Chertock, S. Chu and  A. Kurganov, [Accurate Deterministic Projection Methods for Stiff Detonation Waves](./files/Chertock-Chu-Kurganov.pdf), Communications in Mathematical Sciences, 22 (2024), pp. 871-910.
 
+
+     * S. Chu, A. Kurganov and R. Xin, [A Fifth-Order A-WENO Scheme Based on the Low-Dissipation Central-Upwind Fluxes](./files/Chu-Kurganov-Xin.pdf), Hyperbolic problems: theory, numerics, applications. Vol. II, SEMA SIMAI Springer Ser., Vol. 35, pp. 51–61, Springer, Cham, 2024.
+
 ### <font face="Times New Roman">Publications in 2023</font> 
 
   * S. Chu, O. Kovyrkina,  A. Kurganov and  V. Ostapenko, [Experimental Convergence Rate Study for Three Shock-Capturing Schemes and Development of Highly Accurate Combined Schemes](./files/Chu-Kovyrkina-Kurganov-Ostapenko.pdf), Numerical Methods for Partial Differential Equations, 39 (2023), pp. 4317-4346.
@@ -71,7 +74,6 @@ redirect_from:
 
   * A. Chertock, S. Chu and A. Kurganov, [Adaptive High-Order A-WENO Schemes Based on a New Local Smoothness Indicator](./files/Chertock-Chu-Kurganov_AWENO.pdf), East Asian Journal on Applied Mathematics, 13 (2023), pp. 576-609.
 
-  * S. Chu, A. Kurganov and R. Xin, [A Fifth-Order A-WENO Scheme Based on the Low-Dissipation Central-Upwind Fluxes](./files/Chu-Kurganov-Xin.pdf), Proceedings of the XVIII International Conference on Hyperbolic Problems: Theory, Numerics, Applications.
 
  * S. Chu and A. Kurganov, [Local Characteristic Decomposition Based Central-Upwind Scheme for Compressible Multifluids](./files/Chu-Kurganov_multifluid.pdf), Finite Volumes for Complex Applications X–Volume 2, Hyperbolic and Related Problems, Springer Proc. Math. Stat., Vol. 433 (2023), pp. 73–81, Springer, Cham.
 
