@@ -17,8 +17,8 @@ main:
   #  url: /year-archive/
     
   #- title: "<font color=blue>CV</font>"
-  - title: "CV"
-    url: /files/Chushaoshuai_CV.pdf
+  # - title: "CV"
+  #  url: /files/Chushaoshuai_CV.pdf
   
   #- title: "Teaching"
   #  url: /teaching/    
