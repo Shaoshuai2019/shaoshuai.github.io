@@ -35,11 +35,12 @@ redirect_from:
 
    * S. Chu, A. Kurganov, M. Na and R. Xin, [Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Xin.pdf), submitted to Applied Numerical Mathematics. 
    
-   * S. Chu, A. Kurganov, S. Mohammadian and Z. D.  Zheng, [Central-Upwind Scheme for the Phase-Transition Traffic Flow Model](./files/CKMZ_PTM.pdf), submitted to Journal of Computational Physics.
-
-   
 
 ### <font face="Times New Roman">Publications in 2025</font> 
+
+   * S. Chu, A. Kurganov, S. Mohammadian and Z. D.  Zheng, [Central-Upwind Scheme for the Phase-Transition Traffic Flow Model](./files/CKMZ_PTM.pdf), to appear in Journal of Computational Physics.
+
+
    * S. Chu, M. Herty and E. F. Toro, [High-Order Flux Splitting Schemes for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Toro.pdf), Computers & Fluids, 300 (2025), Paper No. 106738, 15 pp. 
 
    * S. Chu, A. Kurganov and R. Xin, [New More Efficient A-WENO Schemes](./files/Chu-Kurganov-Xin-New.pdf), Journal of Scientific Computing, 104 (2025), Paper No. 53, 24 pp.
