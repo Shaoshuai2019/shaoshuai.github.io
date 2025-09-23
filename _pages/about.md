@@ -36,8 +36,10 @@ redirect_from:
 
 
    * S. Chu, A. Kurganov, M. Na, R. Xin and B.-S. Wang, [Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Xin.pdf), submitted to Applied Numerical Mathematics. 
-   
 
+   * S. Chu, P. Feng, V. A. Kolotilov, A. Kurganov and V. V. Ostapenko, [Novel Adaptive Schemes for Hyperbolic Conservation Laws](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko.pdf), submitted to Communications in Computational Physics.
+
+   
 ### <font face="Times New Roman">Publications in 2025</font> 
 
    * S. Chu, M. Herty and E. F. Toro, [High-Order Flux Splitting Schemes for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Toro.pdf), Computers & Fluids, 300 (2025), Paper No. 106738, 15 pp. 
