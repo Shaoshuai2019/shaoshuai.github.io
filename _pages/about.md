@@ -132,6 +132,10 @@ redirect_from:
   * 2023.06 &emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the University    
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
+  * 2023.05 &emsp;&ensp; Outstanding Graduates of the University  
+  &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
+
+
   * 2023.05 &emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the School of Science   
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
