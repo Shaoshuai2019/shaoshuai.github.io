@@ -29,16 +29,14 @@ redirect_from:
 ### <font face="Times New Roman">Recent Preprint</font> 
    * S. Chu and M. Herty, [High-Order Schemes for Hyperbolic Conservation Laws Using Young Measures](./files/Chu_Herty_YM.pdf), submitted to Journal of Computational Physics.
 
-
-   * S. Chu, M. Herty, M. Lukacova and Y. Zhou, [Solving Random Hyperbolic Conservation Laws Using Linear Programming](./files/Chu_Herty_Lukacova_Zhu.pdf), submitted to SIAM Journal on Scientific Computing. 
-
-
    * S. Chu, A. Kurganov, M. Na, R. Xin and B.-S. Wang, [Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Xin.pdf), submitted to Applied Numerical Mathematics. 
 
    * S. Chu, P. Feng, V. A. Kolotilov, A. Kurganov and V. V. Ostapenko, [Novel Adaptive Schemes for Hyperbolic Conservation Laws](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko.pdf), submitted to Communications in Computational Physics.
 
    
 ### <font face="Times New Roman">Publications in 2025</font> 
+  
+  * S. Chu, M. Herty, M. Lukacova and Y. Zhou, [Solving Random Hyperbolic Conservation Laws Using Linear Programming](./files/Chu_Herty_Lukacova_Zhu.pdf), to appear in SIAM Journal on Scientific Computing. 
 
    * S. Chu, M. Herty and A. Kurganov, [Numerical Analysis of Stabilization for Random Hyperbolic Systems of Balance Laws](./files/Chu-Herty-Kurganov.pdf), to appear in  International Journal of Control. 
 
