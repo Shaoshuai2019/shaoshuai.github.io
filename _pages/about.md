@@ -35,7 +35,7 @@ redirect_from:
 
    
    * S. Chu, A. Kurganov, M. Lukacova and M. Na, [A Locally Divergence-Free Local Characteristic Decomposition Based Path-Conservative Central-Upwind Scheme for Ideal
-     Magnetohydrodynamics](./files/Chu_Herty_Lukacova_Zhu.pdf), to appear in SIAM Journal on Scientific Computing. 
+     Magnetohydrodynamics](./files/Chu_Herty_Lukacova_Zhu.pdf), submitted to SIAM Journal on Scientific Computing. 
 
    
 ### <font face="Times New Roman">Publications in 2025</font> 
