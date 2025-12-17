@@ -34,7 +34,7 @@ redirect_from:
    * S. Chu, P. Feng, V. A. Kolotilov, A. Kurganov and V. V. Ostapenko, [Novel Adaptive Schemes for Hyperbolic Conservation Laws](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko.pdf), submitted to Communications in Computational Physics.
 
    * S. Chu, A. Kurganov, M. Lukacova and M. Na, [A Locally Divergence-Free Local Characteristic Decomposition Based Path-Conservative Central-Upwind Scheme for Ideal
-     Magnetohydrodynamics](./files/Chu_Kurganov_Lukacova_Na.pdf), submitted to SIAM Journal on Scientific Computing. 
+     Magnetohydrodynamics](./files/Chu_Kurganov_Lukacova_Na_Arxiv.pdf), submitted to SIAM Journal on Scientific Computing. 
 
    
 ### <font face="Times New Roman">Publications in 2025</font> 
