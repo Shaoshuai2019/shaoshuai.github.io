@@ -54,7 +54,7 @@ redirect_from:
 
    * S. Chu, A. Kurganov and R. Xin, [New More Efficient A-WENO Schemes](./files/Chu-Kurganov-Xin-New.pdf), Journal of Scientific Computing, 104 (2025), Paper No. 53, 24 pp.
   
-   * S. Chu, A. Kurganov and R. Xin, [New Low-Dissipation Central-Upwind Schemes. Part II](./files/CKX_Ustar.pdf), Journal of Scientific Computing, 193 (2025), Paper No. 33, 17 pp.
+   * S. Chu, A. Kurganov and R. Xin, [New Low-Dissipation Central-Upwind Schemes. Part II](./files/CKX_Ustar.pdf), Journal of Scientific Computing, 103 (2025), Paper No. 33, 17 pp.
 
 
    * S. Chu, A. Kurganov and R. Xin, [A Well-Balanced Fifth-Order A-WENO Scheme Based on Flux Globalization](./files/Chu-Kurganov-Xin_WB_AWENO.pdf), Beijing Journal of Pure and Applied Mathematics, 2 (2025), pp. 87-113.
