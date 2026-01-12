@@ -53,11 +53,9 @@ redirect_from:
    
    * S. Chu, A. Kurganov, S. Mohammadian and Z. D.  Zheng, [Central-Upwind Scheme for the Phase-Transition Traffic Flow Model](./files/CKMZ_PTM.pdf), Journal of Computational Physics, 539 (2025), Paper No. 114241, 19 pp.
 
-
    * S. Chu, A. Kurganov and R. Xin, [New More Efficient A-WENO Schemes](./files/Chu-Kurganov-Xin-New.pdf), Journal of Scientific Computing, 104 (2025), Paper No. 53, 24 pp.
   
    * S. Chu, A. Kurganov and R. Xin, [New Low-Dissipation Central-Upwind Schemes. Part II](./files/CKX_Ustar.pdf), Journal of Scientific Computing, 103 (2025), Paper No. 33, 17 pp.
-
 
    * S. Chu, A. Kurganov and R. Xin, [A Well-Balanced Fifth-Order A-WENO Scheme Based on Flux Globalization](./files/Chu-Kurganov-Xin_WB_AWENO.pdf), Beijing Journal of Pure and Applied Mathematics, 2 (2025), pp. 87-113.
 
@@ -69,11 +67,9 @@ redirect_from:
 
    * S. Chu, I. Kliakhandler and A. Kurganov, [On the Gelfand Problem and Viscosity Matrices for Two-Dimensional Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov.pdf), Siberian Electronic Mathematical Reports, 21 (2024), pp. 78-91.
 
-
    * S. Chu, A. Kurganov and R. Xin, [Low-Dissipation Central-Upwind Schemes for Compressible Multifluids](./files/Chu_Kurganov_Xin.pdf), Journal of Computational Physics, 518 (2024), Paper No. 113311, 35 pp.
 
    * A. Chertock, S. Chu and  A. Kurganov, [Accurate Deterministic Projection Methods for Stiff Detonation Waves](./files/Chertock-Chu-Kurganov.pdf), Communications in Mathematical Sciences, 22 (2024), pp. 871-910.
-
 
    * S. Chu, A. Kurganov and R. Xin, [A Fifth-Order A-WENO Scheme Based on the Low-Dissipation Central-Upwind Fluxes](./files/Chu-Kurganov-Xin.pdf), Hyperbolic problems: theory, numerics, applications. Vol. II, SEMA SIMAI Springer Ser., Vol. 35, pp. 51–61, Springer, Cham, 2024.
 
