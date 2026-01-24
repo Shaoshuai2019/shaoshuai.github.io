@@ -27,7 +27,7 @@ redirect_from:
 ## <font size="5">Publications (in the reversed chronological order)</font>
 
 ### <font face="Times New Roman">Recent Preprints</font> 
-   * S. Chu and M. Herty, A. Kurganov, M. Lukacova and C. Yu, [Numerical Study of Dissipative Weak Solutions for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Kurganov_Lukacova_Yu.pdf), submitted to Pure and Applied Functional Analysis (special issue for Eitan Tadmor 70th birthday).
+   * S. Chu and M. Herty, A. Kurganov, M. Lukacova and C. Yu, [Numerical Study of Dissipative Weak Solutions for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Kurganov_Lukacova_Yu.pdf), submitted to Pure and Applied Functional Analysis (special issue for Prof. Eitan Tadmor's 70th birthday).
 
    * S. Chu, M. Herty, [High-Order Schemes for Hyperbolic Conservation Laws Using Young Measures](./files/Chu_Herty_YM.pdf), submitted to Journal of Computational Physics.
 
