@@ -18,7 +18,7 @@ redirect_from:
 * 2024.06---Present&emsp;&ensp;Postdoc, [Department of Mathematics](https://www.igpm.rwth-aachen.de/),   
 &thinsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/?lidx=1/), Aachen, Germany
 
-* 2023.08---2024.05&thinsp;&thinsp;&emsp;Research Scholar, [Department of Mathematics](https://math.sustech.edu.cn/?lang=en),   
+* 2023.08---2024.05&thinsp;&emsp;Research Scholar, [Department of Mathematics](https://math.sustech.edu.cn/?lang=en),   
 &thinsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us),   
 &thinsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[Southern University of Science and Technology](https://www.sustech.edu.cn/en/),   
 &thinsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;Shenzhen, China
