@@ -50,7 +50,6 @@ redirect_from:
 
    ### <font face="Times New Roman">Publications in 2025</font>
    
-<!--- ### <font face="Times New Roman">Publications in 2025</font> -->
 
    * S. Chu, M. Herty and E. F. Toro, [High-Order Flux Splitting Schemes for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Toro.pdf), Computers & Fluids, 300 (2025), Paper No. 106738, 15 pp. 
 
@@ -71,8 +70,6 @@ redirect_from:
 
    ### <font face="Times New Roman">Publications in 2024</font>
 
-<!--- ### <font face="Times New Roman">Publications in 2024</font>-->
-
    * S. Chu, I. Kliakhandler and A. Kurganov, [On the Gelfand Problem and Viscosity Matrices for Two-Dimensional Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov.pdf), Siberian Electronic Mathematical Reports, 21 (2024), pp. 78-91.
 
    * S. Chu, A. Kurganov and R. Xin, [Low-Dissipation Central-Upwind Schemes for Compressible Multifluids](./files/Chu_Kurganov_Xin.pdf), Journal of Computational Physics, 518 (2024), Paper No. 113311, 35 pp.
@@ -82,8 +79,6 @@ redirect_from:
    * S. Chu, A. Kurganov and R. Xin, [A Fifth-Order A-WENO Scheme Based on the Low-Dissipation Central-Upwind Fluxes](./files/Chu-Kurganov-Xin.pdf), Hyperbolic problems: theory, numerics, applications. Vol. II, SEMA SIMAI Springer Ser., Vol. 35, pp. 51–61, Springer, Cham, 2024.
 
    ### <font face="Times New Roman">Publications in 2023</font>
-
-<!--- ### <font face="Times New Roman">Publications in 2023</font> -->
 
   * S. Chu, O. Kovyrkina,  A. Kurganov and  V. Ostapenko, [Experimental Convergence Rate Study for Three Shock-Capturing Schemes and Development of Highly Accurate Combined Schemes](./files/Chu-Kovyrkina-Kurganov-Ostapenko.pdf), Numerical Methods for Partial Differential Equations, 39 (2023), pp. 4317-4346.
 
@@ -102,13 +97,9 @@ redirect_from:
 
   ### <font face="Times New Roman">Publication in 2022</font>
 
-<!--- ### <font face="Times New Roman">Publication in 2022</font> -->
-
   * S. Chu, A. Kurganov and M. Na, [Fifth-Order A-WENO Schemes Based on the Path-Conservative Central-Upwind Method](./files/Chu-Kurganov-Na.pdf), Journal of Computational Physics, 469 (2022), Paper No. 111508, 22 pp.
 
   ### <font face="Times New Roman">Publication in 2021</font>
-
-<!--- ### <font face="Times New Roman">Publication in 2021</font> -->
 
   * A. Chertock, S. Chu and A. Kurganov, [Hybrid Multifluid Algorithms Based on the Path-Conservative Central-Upwind Scheme](./files/Chertock-Chu-Kurganov_multifluids.pdf), Journal of Scientific Computing, 89 (2021), Paper No. 48, 24 pp.
 
