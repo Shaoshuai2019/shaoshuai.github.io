@@ -65,7 +65,7 @@ redirect_from:
 
    * S. Mohammadian, Z. D.  Zheng, S. Chu and A. Kurganov, [Numerical Study of the Non-Conservative NET-RAT Traffic Flow Model by Path-Conservative Central-Upwind Schemes](./files/Mohammadian-Zheng-Chu-Kurganov.pdf), Computers and Mathematics with Applications, 179 (2025), pp. 212-228.
 
-### <font face="Times New Roman">Publications in 2024</font> 
+<!--- ### <font face="Times New Roman">Publications in 2024</font>-->
 
    * S. Chu, I. Kliakhandler and A. Kurganov, [On the Gelfand Problem and Viscosity Matrices for Two-Dimensional Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov.pdf), Siberian Electronic Mathematical Reports, 21 (2024), pp. 78-91.
 
