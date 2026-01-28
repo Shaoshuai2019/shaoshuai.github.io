@@ -92,11 +92,11 @@ redirect_from:
 
   * A. Chertock, S. Chu, M. Herty, A. Kurganov and M. Lukacova, [Local Characteristic Decomposition Based Central-Upwind Scheme](./files/Chertock-Chu-Herty-Kurganov-Lukacova.pdf), Journal of Computational Physics, 473 (2023), Paper No. 111718, 24 pp.
 
-### <font face="Times New Roman">Publication in 2022</font> 
+<!--- ### <font face="Times New Roman">Publication in 2022</font> -->
 
   * S. Chu, A. Kurganov and M. Na, [Fifth-Order A-WENO Schemes Based on the Path-Conservative Central-Upwind Method](./files/Chu-Kurganov-Na.pdf), Journal of Computational Physics, 469 (2022), Paper No. 111508, 22 pp.
 
-### <font face="Times New Roman">Publication in 2021</font> 
+<!--- ### <font face="Times New Roman">Publication in 2021</font> -->
 
   * A. Chertock, S. Chu and A. Kurganov, [Hybrid Multifluid Algorithms Based on the Path-Conservative Central-Upwind Scheme](./files/Chertock-Chu-Kurganov_multifluids.pdf), Journal of Scientific Computing, 89 (2021), Paper No. 48, 24 pp.
 
