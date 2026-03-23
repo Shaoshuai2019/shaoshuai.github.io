@@ -37,8 +37,6 @@ redirect_from:
 
    * S. Chu, A. Kurganov, M. Na, R. Xin and B.-S. Wang, [Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Xin.pdf), submitted to Applied Numerical Mathematics. 
 
-   * S. Chu, P. Feng, V. A. Kolotilov, A. Kurganov and V. V. Ostapenko, [Novel Adaptive Schemes for Hyperbolic Conservation Laws](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko.pdf), submitted to Communications in Computational Physics.
-
    * S. Chu, A. Kurganov, M. Lukacova and M. Na, [A Locally Divergence-Free Local Characteristic Decomposition Based Path-Conservative Central-Upwind Scheme for Ideal
      Magnetohydrodynamics](./files/Chu_Kurganov_Lukacova_Na_Arxiv.pdf), submitted to Journal of Computational Physics. 
 
@@ -49,6 +47,8 @@ redirect_from:
 <!--- ### <font face="Times New Roman">Publications in 2026</font> -->
 
    * S. Chu, M. Herty, M. Lukacova and Y. Zhou, [Solving Random Hyperbolic Conservation Laws Using Linear Programming](./files/Chu_Herty_Lukacova_Zhu.pdf), to appear in SIAM Journal on Scientific Computing. 
+
+   * S. Chu, P. Feng, V. A. Kolotilov, A. Kurganov and V. V. Ostapenko, [Novel Adaptive Schemes for Hyperbolic Conservation Laws](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko.pdf), to appear in Computational Physics.
 
    * S. Chu, M. Herty and A. Kurganov, [Numerical Analysis of Stabilization for Random Hyperbolic Systems of Balance Laws](./files/Chu-Herty-Kurganov.pdf), International Journal of Control, (2026), pp. 1-16. 
 
