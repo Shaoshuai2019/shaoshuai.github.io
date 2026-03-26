@@ -35,7 +35,7 @@ redirect_from:
 
    * S. Chu and M. Herty, [High-Order Schemes for Hyperbolic Conservation Laws Using Young Measures](./files/Chu_Herty_YM.pdf), submitted to Journal of Computational Physics.
 
-   * S. Chu, A. Kurganov, M. Na, R. Xin and B.-S. Wang, [Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Xin.pdf), submitted to Applied Numerical Mathematics. 
+   * S. Chu, A. Kurganov, M. Na, B.-S. Wang and R. Xin, [Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Xin.pdf), submitted to Applied Numerical Mathematics. 
 
    * S. Chu, A. Kurganov, M. Lukacova and M. Na, [A Locally Divergence-Free Local Characteristic Decomposition Based Path-Conservative Central-Upwind Scheme for Ideal
      Magnetohydrodynamics](./files/Chu_Kurganov_Lukacova_Na_Arxiv.pdf), submitted to Journal of Computational Physics. 
