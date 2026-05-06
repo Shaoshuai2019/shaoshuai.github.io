@@ -52,7 +52,7 @@ redirect_from:
 
    * S. Chu, M. Herty, A. Kurganov, M. Lukacova and C. Yu, [Numerical Study of Dissipative Weak Solutions for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Kurganov_Lukacova_Yu.pdf), to appear in Pure and Applied Functional Analysis (special issue for Prof. Eitan Tadmor's 70th birthday).
 
-   * S. Chu, M. Herty, M. Lukacova and Y. Zhou, [Solving Random Hyperbolic Conservation Laws Using Linear Programming](./files/Chu_Herty_Lukacova_Zhu.pdf), to appear in SIAM Journal on Scientific Computing. 
+   * S. Chu, M. Herty, M. Lukacova and Y. Zhou, [Solving Random Hyperbolic Conservation Laws Using Linear Programming](./files/Chu_Herty_Lukacova_Zhu.pdf), SIAM Journal on Scientific Computing, 48 (2026), pp. A1184-A1205. 
 
    * S. Chu, P. Feng, V. A. Kolotilov, A. Kurganov and V. V. Ostapenko, [Novel Adaptive Schemes for Hyperbolic Conservation Laws](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko.pdf), to appear in Communications in Computational Physics.
 
