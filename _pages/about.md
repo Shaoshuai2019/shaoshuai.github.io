@@ -29,16 +29,13 @@ redirect_from:
 ### <font face="Times New Roman">Recent Preprints</font> 
   * M. Bambach, S. Chu, M. Herty and Y. Lin, [A Bayesian Approach to Feedback Control for Hyperbolic Balance Laws](./files/Bambach_Chu_Herty_Lin_Stability.pdf), submitted to International Journal of Control.
 
-
    * S. Chu, M. Herty and A. Kurganov, [New Scheme Adaption Strategy for Hyperbolic Conservation Laws](./files/Chu-Herty-Kurganov-Adaptive.pdf), submitted to Spectral and High-Order Methods for Partial Differential Equations ICOSAHOM 2025.
 
   * S. Chu and M. Herty, [A Comparative Study of Low-Dissipation Numerical Schemes for Hyperbolic Conservation Laws](./files/Chu_Herty_LD.pdf), submitted to Numerical Methods for Partial Differential Equations.
-   
 
    * S. Chu and M. Herty, [High-Order Schemes for Hyperbolic Conservation Laws Using Young Measures](./files/Chu_Herty_YM.pdf), submitted to Journal of Computational Physics.
 
-
-   * S. Chu, I. Kliakhandler and A. Kurganov, [Adaptive Artificial Anti-Diffusion Methods for Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov_SISC.pdf), submitted to SIAM Journal on Scientific Computing.
+   * S. Chu, I. Kliakhandler and A. Kurganov, [Adaptive Artificial Anti-Diffusion Methods for Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov_New.pdf), submitted to Journal of Computational Physics.
 
    * S. Chu, A. Kurganov, M. Na, B.-S. Wang and R. Xin, [Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Xin.pdf), submitted to Applied Numerical Mathematics. 
 
