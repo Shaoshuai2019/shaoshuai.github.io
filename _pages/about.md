@@ -37,7 +37,7 @@ redirect_from:
 
    * S. Chu, I. Kliakhandler and A. Kurganov, [Adaptive Artificial Anti-Diffusion Methods for Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov_New.pdf), submitted to Journal of Computational Physics.
 
-   * S. Chu, A. Kurganov, M. Na, B.-S. Wang and R. Xin, [Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Xin.pdf), submitted to Applied Numerical Mathematics. 
+   * S. Chu, A. Kurganov, M. Na, B.-S. Wang and R. Xin, [Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Wang-Xin.pdf), submitted to Applied Numerical Mathematics. 
 
    * S. Chu, A. Kurganov, M. Lukacova and M. Na, [A Locally Divergence-Free Local Characteristic Decomposition Based   Path-Conservative Central-Upwind Scheme for Ideal Magnetohydrodynamics](./files/Chu_Kurganov_Lukacova_Na_Arxiv.pdf), submitted to Numerical Methods for Partial Differential Equations. 
 
