@@ -35,7 +35,7 @@ redirect_from:
 
    * S. Chu and M. Herty, [High-Order Schemes for Hyperbolic Conservation Laws Using Young Measures](./files/Chu_Herty_YM.pdf), submitted to Journal of Computational Physics.
 
-   * S. Chu, P. Feng, V. A. Kolotilov, A. Kurganov and V. V. Ostapenko, [Novel Adaptive Schemes for Hyperbolic Conservation Laws](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko-New.pdf), submitted to Communications in Computational Physics.
+   * S. Chu, P. Feng, V. A. Kolotilov, A. Kurganov and V. V. Ostapenko, [Novel Adaptive Methods for Hyperbolic Conservation Laws Based on New Quasi-Linear Seventh- and Ninth-Order Schemes](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko-New.pdf), submitted to Communications in Computational Physics.
 
    * S. Chu, I. Kliakhandler and A. Kurganov, [Adaptive Artificial Anti-Diffusion Methods for Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov_New.pdf), submitted to Journal of Computational Physics.
 
