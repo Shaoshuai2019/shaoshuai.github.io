@@ -52,7 +52,7 @@ redirect_from:
 
    * S. Chu, P. Feng, V. A. Kolotilov, A. Kurganov and V. V. Ostapenko, [Novel Adaptive Schemes for Hyperbolic Conservation Laws](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko.pdf), to appear in Communications in Computational Physics.
 
-    * M. Bambach, S. Chu, M. Herty and Y. Lin, [A Bayesian Approach to Feedback Control for Hyperbolic Balance Laws](./files/Bambach_Chu_Herty_Lin_Stability.pdf), International Journal of Control, 2026, pp. 1-20.
+   * M. Bambach, S. Chu, M. Herty and Y. Lin, [A Bayesian Approach to Feedback Control for Hyperbolic Balance Laws](./files/Bambach_Chu_Herty_Lin_Stability.pdf), International Journal of Control, 2026, pp. 1-20.
 
    * S. Chu, M. Herty, M. Lukacova and Y. Zhou, [Solving Random Hyperbolic Conservation Laws Using Linear Programming](./files/Chu_Herty_Lukacova_Zhu.pdf), SIAM Journal on Scientific Computing, 48 (2026), pp. A1184-A1205. 
 
