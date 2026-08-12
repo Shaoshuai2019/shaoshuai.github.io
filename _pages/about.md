@@ -47,12 +47,12 @@ redirect_from:
 ### <font face="Times New Roman">Publications in 2026</font> 
 
 <!--- ### <font face="Times New Roman">Publications in 2026</font> -->
-   
-   * M. Bambach, S. Chu, M. Herty and Y. Lin, [A Bayesian Approach to Feedback Control for Hyperbolic Balance Laws](./files/Bambach_Chu_Herty_Lin_Stability.pdf), to appear in International Journal of Control.
   
    * S. Chu, M. Herty, A. Kurganov, M. Lukacova and C. Yu, [Numerical Study of Dissipative Weak Solutions for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Kurganov_Lukacova_Yu.pdf), to appear in Pure and Applied Functional Analysis (special issue for Prof. Eitan Tadmor's 70th birthday).
 
    * S. Chu, P. Feng, V. A. Kolotilov, A. Kurganov and V. V. Ostapenko, [Novel Adaptive Schemes for Hyperbolic Conservation Laws](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko.pdf), to appear in Communications in Computational Physics.
+
+    * M. Bambach, S. Chu, M. Herty and Y. Lin, [A Bayesian Approach to Feedback Control for Hyperbolic Balance Laws](./files/Bambach_Chu_Herty_Lin_Stability.pdf), International Journal of Control, 2026, pp. 1-20.
 
    * S. Chu, M. Herty, M. Lukacova and Y. Zhou, [Solving Random Hyperbolic Conservation Laws Using Linear Programming](./files/Chu_Herty_Lukacova_Zhu.pdf), SIAM Journal on Scientific Computing, 48 (2026), pp. A1184-A1205. 
 
