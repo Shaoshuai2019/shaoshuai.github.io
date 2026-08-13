@@ -42,15 +42,20 @@ redirect_from:
 
    * S. Chu, A. Kurganov, M. Lukacova and M. Na, [A Locally Divergence-Free Local Characteristic Decomposition Based   Path-Conservative Central-Upwind Scheme for Ideal Magnetohydrodynamics](./files/Chu_Kurganov_Lukacova_Na_Arxiv.pdf), submitted to Numerical Methods for Partial Differential Equations. 
 
-   * A. Porfetye, Z. Tang, S. Chu, C. Helzel and M. Lukacova, [New Fully Discrete Active Flux Methods with Truly Multi-Dimensional Evolution Operators and WENO Reconstruction](./files/Porfetye_Tang_Chu_Helzel_Lukacova.pdf), submitted to Journal of Scientific Computing. 
+   
     
 ### <font face="Times New Roman">Publications in 2026</font> 
 
 <!--- ### <font face="Times New Roman">Publications in 2026</font> -->
   
+
+
    * S. Chu, M. Herty, A. Kurganov, M. Lukacova and C. Yu, [Numerical Study of Dissipative Weak Solutions for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Kurganov_Lukacova_Yu.pdf), to appear in Pure and Applied Functional Analysis (special issue for Prof. Eitan Tadmor's 70th birthday).
 
    * S. Chu, P. Feng, V. A. Kolotilov, A. Kurganov and V. V. Ostapenko, [Novel Adaptive Schemes for Hyperbolic Conservation Laws](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko.pdf), to appear in Communications in Computational Physics.
+
+
+   * A. Porfetye, Z. Tang, S. Chu, C. Helzel and M. Lukacova, [New Fully Discrete Active Flux Methods with Truly Multi-Dimensional Evolution Operators and WENO Reconstruction](./files/Porfetye_Tang_Chu_Helzel_Lukacova.pdf), to appear in Journal of Scientific Computing. 
 
    * M. Bambach, S. Chu, M. Herty and Y. Lin, [A Bayesian Approach to Feedback Control for Hyperbolic Balance Laws](./files/Bambach_Chu_Herty_Lin_Stability.pdf), International Journal of Control, 2026, pp. 1-20.
 
