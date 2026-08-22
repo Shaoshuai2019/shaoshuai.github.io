@@ -30,8 +30,6 @@ redirect_from:
 
    * S. Chu, M. Herty and A. Kurganov, [New Scheme Adaption Strategy for Hyperbolic Conservation Laws](./files/Chu-Herty-Kurganov-Adaptive.pdf), submitted to Spectral and High-Order Methods for Partial Differential Equations ICOSAHOM 2025.
 
-  * S. Chu and M. Herty, [A Comparative Study of Low-Dissipation Numerical Schemes for Hyperbolic Conservation Laws](./files/Chu_Herty_LD.pdf), submitted to Numerical Methods for Partial Differential Equations.
-
    * S. Chu and M. Herty, [High-Order Schemes for Hyperbolic Conservation Laws Using Young Measures](./files/Chu_Herty_YM.pdf), submitted to Journal of Computational Physics.
 
    * S. Chu, P. Feng, V. A. Kolotilov, A. Kurganov and V. V. Ostapenko, [Novel Adaptive Methods for Hyperbolic Conservation Laws Based on New Quasi-Linear Seventh- and Ninth-Order Schemes](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko-New.pdf), submitted to Communications in Computational Physics.
@@ -48,7 +46,8 @@ redirect_from:
 
 <!--- ### <font face="Times New Roman">Publications in 2026</font> -->
   
-
+   
+   * S. Chu and M. Herty, [A Comparative Study of Low-Dissipation Numerical Schemes for Hyperbolic Conservation Laws](./files/Chu_Herty_LD.pdf), to appear in Numerical Methods for Partial Differential Equations.
 
    * S. Chu, M. Herty, A. Kurganov, M. Lukacova and C. Yu, [Numerical Study of Dissipative Weak Solutions for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Kurganov_Lukacova_Yu.pdf), to appear in Pure and Applied Functional Analysis (special issue for Prof. Eitan Tadmor's 70th birthday).
 
