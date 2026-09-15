@@ -43,11 +43,6 @@ redirect_from:
 ### <font face="Times New Roman">Publications in 2026</font> 
 
 <!--- ### <font face="Times New Roman">Publications in 2026</font> -->
-  
-
-   * S. Chu and M. Herty, [High-Order Schemes for Hyperbolic Conservation Laws Using Young Measures](./files/Chu_Herty_YM.pdf), to appear in Journal of Computational Physics.
-   
-   * S. Chu and M. Herty, [A Comparative Study of Low-Dissipation Numerical Schemes for Hyperbolic Conservation Laws](./files/Chu_Herty_LD.pdf), to appear in Numerical Methods for Partial Differential Equations.
 
    * S. Chu, M. Herty, A. Kurganov, M. Lukacova and C. Yu, [Numerical Study of Dissipative Weak Solutions for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Kurganov_Lukacova_Yu.pdf), to appear in Pure and Applied Functional Analysis (special issue for Prof. Eitan Tadmor's 70th birthday).
 
@@ -55,6 +50,11 @@ redirect_from:
 
 
    * M. Bambach, S. Chu, M. Herty and Y. Lin, [A Bayesian Approach to Feedback Control for Hyperbolic Balance Laws](./files/Bambach_Chu_Herty_Lin_Stability.pdf), International Journal of Control, 99 (2026), pp. 3163-3182.
+
+   * S. Chu and M. Herty, [High-Order Schemes for Hyperbolic Conservation Laws Using Young Measures](./files/Chu_Herty_YM.pdf), Journal of Computational Physics, 2026, Paper No. 115375, 28 pp.
+
+   * S. Chu and M. Herty, [A Comparative Study of Low-Dissipation Numerical Schemes for Hyperbolic Conservation Laws](./files/Chu_Herty_LD.pdf), Numerical Methods for Partial Differential Equations, 42 (2026), Paper No. e70140, 41 pp.
+
 
    * A. Porfetye, Z. Tang, S. Chu, C. Helzel and M. Lukacova, [New Fully Discrete Active Flux Methods with Truly Multi-Dimensional Evolution Operators and WENO Reconstruction](./files/Porfetye_Tang_Chu_Helzel_Lukacova.pdf), Journal of Scientific Computing, 109 (2026). 
 
