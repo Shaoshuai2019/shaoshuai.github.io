@@ -28,6 +28,8 @@ redirect_from:
 
 ### <font face="Times New Roman">Recent Preprints</font> 
 
+   * S. Chu, M. Herty and A. Kurganov, [Entropy-Based Local Characteristic Decomposition](./files/Chu_Herty_Kurganov_LCD.pdf), submitted to Journal of Scientific Computing.
+
    * S. Chu, M. Herty and A. Kurganov, [New Scheme Adaption Strategy for Hyperbolic Conservation Laws](./files/Chu-Herty-Kurganov-Adaptive.pdf), submitted to Spectral and High-Order Methods for Partial Differential Equations ICOSAHOM 2025.
 
    * S. Chu, P. Feng, V. A. Kolotilov, A. Kurganov and V. V. Ostapenko, [Novel Adaptive Methods for Hyperbolic Conservation Laws Based on New Quasi-Linear Seventh- and Ninth-Order Schemes](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko-New.pdf), submitted to Communications in Computational Physics.
