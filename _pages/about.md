@@ -42,14 +42,10 @@ redirect_from:
 
 ### <font face="Times New Roman">Publications in 2027</font> 
 
-<!--- ### <font face="Times New Roman">Publications in 2026</font> -->
-
    * S. Chu and M. Herty, [High-Order Schemes for Hyperbolic Conservation Laws Using Young Measures](./files/Chu_Herty_YM.pdf), Journal of Computational Physics, 568 (2027), Paper No. 115375, 28 pp.
 
     
 ### <font face="Times New Roman">Publications in 2026</font> 
-
-<!--- ### <font face="Times New Roman">Publications in 2026</font> -->
 
    * S. Chu, M. Herty, A. Kurganov, M. Lukacova and C. Yu, [Numerical Study of Dissipative Weak Solutions for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Kurganov_Lukacova_Yu.pdf), to appear in Pure and Applied Functional Analysis (special issue for Prof. Eitan Tadmor's 70th birthday).
 
