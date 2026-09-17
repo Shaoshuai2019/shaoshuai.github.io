@@ -40,7 +40,12 @@ redirect_from:
 
    * S. Chu, A. Kurganov, M. Lukacova and M. Na, [A Locally Divergence-Free Local Characteristic Decomposition Based   Path-Conservative Central-Upwind Scheme for Ideal Magnetohydrodynamics](./files/Chu_Kurganov_Lukacova_Na_Arxiv.pdf), submitted to Numerical Methods for Partial Differential Equations. 
 
-   
+### <font face="Times New Roman">Publications in 2026</font> 
+
+<!--- ### <font face="Times New Roman">Publications in 2026</font> -->
+
+   * S. Chu and M. Herty, [High-Order Schemes for Hyperbolic Conservation Laws Using Young Measures](./files/Chu_Herty_YM.pdf), Journal of Computational Physics, 568 (2027), Paper No. 115375, 28 pp.
+
     
 ### <font face="Times New Roman">Publications in 2026</font> 
 
