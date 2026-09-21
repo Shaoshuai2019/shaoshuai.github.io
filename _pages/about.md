@@ -28,7 +28,7 @@ redirect_from:
 
 ### <font face="Times New Roman">Recent Preprints</font> 
 
-    * S. Chu and M. Herty, [Numerical Realization of an Entropy-Based Selection Principle in the Example of Kelvin-Helmholtz Instability](./files/Chu_Herty_Kurganov_LCD.pdf), submitted to SIAM Journal on Scientific Computing.
+  * S. Chu and M. Herty, [Numerical Realization of an Entropy-Based Selection Principle in the Example of Kelvin-Helmholtz Instability](./files/Chu_Herty_KH.pdf), submitted to SIAM Journal on Scientific Computing.
    
    * S. Chu, M. Herty and A. Kurganov, [Entropy-Based Local Characteristic Decomposition](./files/Chu_Herty_Kurganov_LCD.pdf), submitted to Journal of Scientific Computing.
 
