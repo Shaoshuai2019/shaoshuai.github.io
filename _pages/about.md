@@ -44,7 +44,7 @@ redirect_from:
 
 ### <font face="Times New Roman">Publications in 2027</font> 
 
-   * S. Chu and M. Herty, [High-Order Schemes for Hyperbolic Conservation Laws Using Young Measures](./files/Chu_Herty_YM.pdf), Journal of Computational Physics, 568 (2027), Paper No. 115375, 28 pp.
+   * S. Chu and M. Herty, [High-Order Schemes for Hyperbolic Conservation Laws Using Young Measures](./files/Chu_Herty_YM.pdf), Journal of Computational Physics, 568 (2027), Paper No. 115375, 22 pp.
 
     
 ### <font face="Times New Roman">Publications in 2026</font> 
