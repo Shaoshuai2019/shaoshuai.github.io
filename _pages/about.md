@@ -158,6 +158,13 @@ redirect_from:
   * 2023.06 &emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the University    
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
+  * 2022.10 &emsp;&ensp; National Scholarship   
+  &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
+
+<!-- 
+  * 2023.06 &emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the University    
+  &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
+
   * 2023.05 &emsp;&ensp; Outstanding Graduates of the University  
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
@@ -185,7 +192,7 @@ redirect_from:
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Scholarship for Outstanding Students   
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Outstanding Students of the University  
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Beijing Institute of Technology, Beijing, China
-
+--->
 &nbsp;
 &nbsp;
 
