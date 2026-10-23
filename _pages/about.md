@@ -262,11 +262,9 @@ redirect_from:
 
 ## <font size="5">Awards</font>
 
-   2023.06 &emsp;&ensp; Top 10 Outstanding Postgraduate Graduates 
-   &emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
-
-   2022.10 &emsp;&ensp; National Scholarship   
-  &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
+   2023.06 &emsp;&ensp; Top 10 Outstanding Postgraduate Graduates, SUSTech, Shenzhen, China 
+   
+   2022.10 &emsp;&ensp; National Scholarship, SUSTech, Shenzhen, China
 
 <!-- 
   * 2023.06 &emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the University    
