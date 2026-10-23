@@ -27,15 +27,18 @@ redirect_from:
 
 
 
-<div style="font-family: 'Times New Roman', Times, serif;" markdown="1">
 
 ## Academic Experience
+{: style="font-family: 'Times New Roman', Times, serif;" }
 
-* 2024.06---Present&emsp;Postdoc, [IGPM](https://www.igpm.rwth-aachen.de/), [RWTH Aachen University](https://www.rwth-aachen.de/), Aachen, Germany
+* 2024.06---Present&emsp;&ensp;Postdoc, [IGPM](https://www.igpm.rwth-aachen.de/),  
+  [RWTH Aachen University](https://www.rwth-aachen.de/), Aachen, Germany
 
-* 2023.08---2024.05&emsp;Research Scholar, [Department of Mathematics](https://math.sustech.edu.cn/?lang=en), [Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us), [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), Shenzhen, China
+* 2023.08---2024.05&emsp;Research Scholar, [Department of Mathematics](https://math.sustech.edu.cn/?lang=en),  
+  [Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us),  
+  [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), Shenzhen, China
+{: style="font-family: 'Times New Roman', Times, serif;" }
 
-</div>
 
 
 
