@@ -14,15 +14,34 @@ redirect_from:
 &nbsp;
 
 
-## <font face="Times New Roman">Academic Experience</font> 
+<div style="font-family: 'Times New Roman', serif;">
 
-* 2024.06---Present&emsp;&ensp;Postdoc, [Department of Mathematics](https://www.mathematik.rwth-aachen.de/go/id/mxy/?lidx=1),   
-&thinsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/?lidx=1/), Aachen, Germany
+<h2>Academic Experience</h2>
 
-* 2023.08---2024.05&thinsp;&emsp;Research Scholar, [Department of Mathematics](https://math.sustech.edu.cn/?lang=en),   
-&thinsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us),   
-&thinsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[Southern University of Science and Technology](https://www.sustech.edu.cn/en/),   
-&thinsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;Shenzhen, China
+<p>
+2024.06---Present &emsp; Postdoc,
+<a href="https://www.igpm.rwth-aachen.de/">
+Institute for Geometry and Practical Mathematics (IGPM)</a>,<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;
+<a href="https://www.rwth-aachen.de/go/id/a/?lidx=1">
+RWTH Aachen University</a>, Aachen, Germany
+</p>
+
+<p>
+2023.08---2024.05 &emsp; Research Scholar,
+<a href="https://math.sustech.edu.cn/?lang=en">
+Department of Mathematics</a>,<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;
+<a href="https://icm.sustech.edu.cn/?lang=en-us">
+Shenzhen International Center for Mathematics</a>,<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;
+<a href="https://www.sustech.edu.cn/en/">
+Southern University of Science and Technology</a>,<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;
+Shenzhen, China
+</p>
+
+</div>
 
 
 
