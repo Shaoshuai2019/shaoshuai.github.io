@@ -41,7 +41,7 @@ redirect_from:
 
    [1] S. Chu, A. Kurganov, M. Lukacova and M. Na, [A Locally Divergence-Free Local Characteristic Decomposition Based   Path-Conservative Central-Upwind Scheme for Ideal Magnetohydrodynamics](./files/Chu_Kurganov_Lukacova_Na_Arxiv.pdf), submitted to Numerical Methods for Partial Differential Equations. 
 
-## <font face="Times New Roman">Publications (in the reversed chronological order)</font> 
+## <font face="Times New Roman">Publications (in Reverse Chronological Order)</font> 
 
    [29] S. Chu, M. Herty, A. Kurganov, M. Lukacova and C. Yu, [Numerical Study of Dissipative Weak Solutions for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Kurganov_Lukacova_Yu.pdf), to appear in Pure and Applied Functional Analysis (special issue for Prof. Eitan Tadmor's 70th birthday).
 
@@ -236,7 +236,7 @@ redirect_from:
 
 ## <font face="Times New Roman">Teaching Assistant Experience</font> 
 
-   2023 Spring  &emsp;&emsp;ODE 
+   2023 Spring &emsp;&emsp;ODE 
 
    2022 Fall    &emsp;&emsp;&ensp;&ensp;Linear Algebra & Scientific Computing
 
@@ -262,7 +262,7 @@ redirect_from:
 
 ## <font size="5">Awards</font>
 
-   2023.06 &emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the University    
+   2023.06 &emsp;&ensp; Top 10 Outstanding Postgraduate Graduates 
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
    2022.10 &emsp;&ensp; National Scholarship   
