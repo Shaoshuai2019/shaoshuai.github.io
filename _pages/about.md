@@ -65,7 +65,7 @@ redirect_from:
    
    [19] **S. Chu**, A. Kurganov<sup>*</sup>, S. Mohammadian and Z. D.  Zheng, [Central-Upwind Scheme for the Phase-Transition Traffic Flow Model](./files/CKMZ_PTM.pdf), Journal of Computational Physics, 539 (2025), Paper No. 114241, 19 pp.
 
-   [18] **S. Chu**, A. Kurganov and R. Xin<sup>*</sup>, [New More Efficient A-WENO Schemes](./files/Chu-Kurganov-Xin-New.pdf), Journal of Scientific Computing, 104 (2025), Paper No. 53, 24 pp.
+   [18] **S. Chu**, A. Kurganov<sup>*</sup> and R. Xin<sup>*</sup>, [New More Efficient A-WENO Schemes](./files/Chu-Kurganov-Xin-New.pdf), Journal of Scientific Computing, 104 (2025), Paper No. 53, 24 pp.
   
    [17] **S. Chu**, A. Kurganov and R. Xin<sup>*</sup>, [New Low-Dissipation Central-Upwind Schemes. Part II](./files/CKX_Ustar.pdf), Journal of Scientific Computing, 103 (2025), Paper No. 33, 17 pp.
 
@@ -87,7 +87,7 @@ redirect_from:
 
    [8] V. A. Kolotilov, A. Kurganov<sup>*</sup>, V. V. Ostapenko, N. A. Khandeeva and **S. Chu**, [On the Accuracy of Shock-Capturing Schemes Calculating Gas-Dynamic Shock Waves](./files/Kolotilov-Kurganov-Ostapenko-Khandeeva-Chu.pdf), Computational Mathematics and Mathematical Physics, 63 (2023), pp. 1341-1349.
 
-   [7] A. Chertock, **S. Chu**<sup>*</sup> and A. Kurganov, [Adaptive High-Order A-WENO Schemes Based on a New Local Smoothness Indicator](./files/Chertock-Chu-Kurganov_AWENO.pdf), East Asian Journal on Applied Mathematics, 13 (2023), pp. 576-609.
+   [7] A. Chertock, **S. Chu** and A. Kurganov<sup>*</sup>, [Adaptive High-Order A-WENO Schemes Based on a New Local Smoothness Indicator](./files/Chertock-Chu-Kurganov_AWENO.pdf), East Asian Journal on Applied Mathematics, 13 (2023), pp. 576-609.
 
    [6] **S. Chu** and A. Kurganov<sup>*</sup>, [Local Characteristic Decomposition Based Central-Upwind Scheme for Compressible Multifluids](./files/Chu-Kurganov_multifluid.pdf), Finite Volumes for Complex Applications X–Volume 2, Hyperbolic and Related Problems, Springer Proc. Math. Stat., Vol. 433 (2023), pp. 73–81, Springer, Cham.
 
