@@ -25,20 +25,19 @@ redirect_from:
 &thinsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;Shenzhen, China
 
 
-<div style="font-family: 'Times New Roman', serif;">
+
+
+<div style="font-family: 'Times New Roman', Times, serif;" markdown="1">
 
 ## Academic Experience
 
-* 2024.06---Present  Postdoc, [IGPM](https://www.igpm.rwth-aachen.de/),
-  [RWTH Aachen University](https://www.rwth-aachen.de/), Aachen, Germany
+* 2024.06---Present&emsp;Postdoc, [IGPM](https://www.igpm.rwth-aachen.de/), [RWTH Aachen University](https://www.rwth-aachen.de/), Aachen, Germany
 
-* 2023.08---2024.05  Research Scholar,
-  [Department of Mathematics](https://math.sustech.edu.cn/?lang=en),
-  [Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us),
-  [Southern University of Science and Technology](https://www.sustech.edu.cn/en/),
-  Shenzhen, China
+* 2023.08---2024.05&emsp;Research Scholar, [Department of Mathematics](https://math.sustech.edu.cn/?lang=en), [Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us), [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), Shenzhen, China
 
 </div>
+
+
 
 
 
