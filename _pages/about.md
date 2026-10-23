@@ -221,7 +221,7 @@ redirect_from:
 ## <font face="Times New Roman">Academic Education</font> 
 
 
-2019---2023 &emsp;&ensp;PhD in Computational Mathematics,             
+2019---2023&emsp;PhD in Computational Mathematics,             
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Department of Mathematics, Southern University of Science and Technology,     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Shenzhen, China  
 
@@ -236,8 +236,7 @@ redirect_from:
 
 ## <font face="Times New Roman">Teaching Assistant Experience</font> 
 
-   2023 Spring  &emsp;&ensp;ODE
-
+   2023 Spring  &emsp;&ensp;ODE &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
    2022 Fall    &emsp;&emsp;&ensp;&ensp;Linear Algebra & Scientific Computing
 
    2022 Spring  &emsp;&ensp;ODE & Numerical Solutions to PDEs
