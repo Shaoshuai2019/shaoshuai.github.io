@@ -223,11 +223,13 @@ redirect_from:
 
 2019---2023 &emsp;PhD in Computational Mathematics,             
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Department of Mathematics, Southern University of Science and Technology,     
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Shenzhen, China
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Shenzhen, China  
+
 2017---2019&emsp;MS in Computational Mathematics,   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;School of Mathematics, Harbin Institute of Technology, Harbin, China   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Department of Mathematics, Southern University of Science and Technology,   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Shenzhen, China
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Shenzhen, China  
+
 2013---2017&emsp;BS in Information and Computing Science,   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;School of Mathematics and Statistics, Beijing Institute of Technology,   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Beijing, China
