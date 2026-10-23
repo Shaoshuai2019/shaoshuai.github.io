@@ -39,11 +39,11 @@ redirect_from:
 
    [2] **S. Chu**, A. Kurganov, M. Na, B.-S. Wang and R. Xin, [Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Wang-Xin.pdf), submitted to Applied Numerical Mathematics. 
 
-   [1] **S. Chu**, A. Kurganov, M. Lukacova and M. Na, [A Locally Divergence-Free Local Characteristic Decomposition Based   Path-Conservative Central-Upwind Scheme for Ideal Magnetohydrodynamics](./files/Chu_Kurganov_Lukacova_Na_Arxiv.pdf), submitted to Numerical Methods for Partial Differential Equations. 
+   [1] **S. Chu**, A. Kurganov, M. Lukáčová-Medviďová and M. Na, [A Locally Divergence-Free Local Characteristic Decomposition Based   Path-Conservative Central-Upwind Scheme for Ideal Magnetohydrodynamics](./files/Chu_Kurganov_Lukacova_Na_Arxiv.pdf), submitted to Numerical Methods for Partial Differential Equations. 
 
 ## <font face="Times New Roman">Publications (in Reverse Chronological Order)</font> 
 
-   [29] **S. Chu**, M. Herty, A. Kurganov, M. Lukacova<sup>*</sup> and C. Yu, [Numerical Study of Dissipative Weak Solutions for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Kurganov_Lukacova_Yu.pdf), to appear in Pure and Applied Functional Analysis (special issue for Prof. Eitan Tadmor's 70th birthday).
+   [29] **S. Chu**, M. Herty, A. Kurganov, M. Lukáčová-Medviďová<sup>*</sup> and C. Yu, [Numerical Study of Dissipative Weak Solutions for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Kurganov_Lukacova_Yu.pdf), to appear in Pure and Applied Functional Analysis (special issue for Prof. Eitan Tadmor's 70th birthday).
 
    [28] **S. Chu**<sup>*</sup> and M. Herty, [High-Order Schemes for Hyperbolic Conservation Laws Using Young Measures](./files/Chu_Herty_YM.pdf), Journal of Computational Physics, 568 (2027), Paper No. 115375, 22 pp.
 
@@ -51,13 +51,13 @@ redirect_from:
 
    [26] **S. Chu**<sup>*</sup> and M. Herty, [A Comparative Study of Low-Dissipation Numerical Schemes for Hyperbolic Conservation Laws](./files/Chu_Herty_LD.pdf), Numerical Methods for Partial Differential Equations, 42 (2026), Paper No. e70140, 41 pp.
 
-   [25] **S. Chu**, M. Herty<sup>*</sup>, M. Lukacova and Y. Zhou, [Solving Random Hyperbolic Conservation Laws Using Linear Programming](./files/Chu_Herty_Lukacova_Zhu.pdf), SIAM Journal on Scientific Computing, 48 (2026), pp. A1184-A1205. 
+   [25] **S. Chu**, M. Herty<sup>*</sup>, M. Lukáčová-Medviďová and Y. Zhou, [Solving Random Hyperbolic Conservation Laws Using Linear Programming](./files/Chu_Herty_Lukacova_Zhu.pdf), SIAM Journal on Scientific Computing, 48 (2026), pp. A1184-A1205. 
 
    [24] **S. Chu**<sup>*</sup>, M. Herty and A. Kurganov, [Numerical Analysis of Stabilization for Random Hyperbolic Systems of Conservation Laws](./files/Chu-Herty-Kurganov.pdf), International Journal of Control,  99 (2026), pp. 1545–1560. 
 
    [23] **S. Chu**, P. Feng, V. A. Kolotilov, A. Kurganov<sup>*</sup> and V. V. Ostapenko, [Novel Adaptive Schemes for Hyperbolic Conservation Laws](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko.pdf), Communications in Computational Physics, (2026).
 
-   [22] A. Porfetye, Z. Tang<sup>*</sup>, **S. Chu**, C. Helzel and M. Lukacova, [New Fully Discrete Active Flux Methods with Truly Multi-Dimensional Evolution Operators and WENO Reconstruction](./files/Porfetye_Tang_Chu_Helzel_Lukacova.pdf), Journal of Scientific Computing, 109 (2026), Paper No. 33, 32 pp.
+   [22] A. Porfetye, Z. Tang<sup>*</sup>, **S. Chu**, C. Helzel and M. Lukáčová-Medviďová, [New Fully Discrete Active Flux Methods with Truly Multi-Dimensional Evolution Operators and WENO Reconstruction](./files/Porfetye_Tang_Chu_Helzel_Lukacova.pdf), Journal of Scientific Computing, 109 (2026), Paper No. 33, 32 pp.
    
    [21] **S. Chu**<sup>*</sup>, M. Herty and E. F. Toro, [High-Order Flux Splitting Schemes for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Toro.pdf), Computers & Fluids, 300 (2025), Paper No. 106738, 15 pp. 
 
@@ -263,7 +263,7 @@ redirect_from:
 ## <font size="5">Awards</font>
 
    2023.06 &emsp;&ensp; Top 10 Outstanding Postgraduate Graduates 
-  &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
+   &emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
 
    2022.10 &emsp;&ensp; National Scholarship   
   &emsp;&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Southern University of Science and Technology, Shenzhen, China
