@@ -53,7 +53,7 @@ redirect_from:
 
    [25] **S. Chu**, M. Herty<sup>*</sup>, M. Lukáčová-Medviďová and Y. Zhou, [Solving Random Hyperbolic Conservation Laws Using Linear Programming](./files/Chu_Herty_Lukacova_Zhu.pdf), SIAM Journal on Scientific Computing, 48 (2026), pp. A1184-A1205. 
 
-   [24] **S. Chu**<sup>*</sup>, M. Herty and A. Kurganov, [Numerical Analysis of Stabilization for Random Hyperbolic Systems of Conservation Laws](./files/Chu-Herty-Kurganov.pdf), International Journal of Control,  99 (2026), pp. 1545–1560. 
+   [24] **S. Chu**<sup>*</sup>, M. Herty and A. Kurganov, [Numerical Analysis of Stabilisation for Random Hyperbolic Systems of Conservation Laws](./files/Chu-Herty-Kurganov.pdf), International Journal of Control,  99 (2026), pp. 1545–1560. 
 
    [23] **S. Chu**, P. Feng, V. A. Kolotilov, A. Kurganov<sup>*</sup> and V. V. Ostapenko, [Novel Adaptive Schemes for Hyperbolic Conservation Laws](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko.pdf), Communications in Computational Physics, (2026).
 
@@ -75,7 +75,7 @@ redirect_from:
 
    [14] S. Mohammadian, Z. D.  Zheng<sup>*</sup>, **S. Chu** and A. Kurganov, [Numerical Study of the Non-Conservative NET-RAT Traffic Flow Model by Path-Conservative Central-Upwind Schemes](./files/Mohammadian-Zheng-Chu-Kurganov.pdf), Computers and Mathematics with Applications, 179 (2025), pp. 212-228.
 
-   [13] **S. Chu**, I. Kliakhandler and A. Kurganov<sup>*</sup>, [On the Gelfand Problem and Viscosity Matrices for Two-Dimensional Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov.pdf), Siberian Electronic Mathematical Reports, 21 (2024), pp. 78-91.
+   [13] **S. Chu**, I. Kliakhandler and A. Kurganov<sup>*</sup>, [On the Gelfand Problem and Viscosity Matrices for Two-Dimensional Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov.pdf), Siberian Electronic Mathematical Reports, 21 (2024), pp. B78-B91.
 
    [12] **S. Chu**, A. Kurganov and R. Xin<sup>*</sup>, [Low-Dissipation Central-Upwind Schemes for Compressible Multifluids](./files/Chu_Kurganov_Xin.pdf), Journal of Computational Physics, 518 (2024), Paper No. 113311, 35 pp.
 
