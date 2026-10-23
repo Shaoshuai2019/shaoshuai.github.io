@@ -25,27 +25,6 @@ redirect_from:
 &thinsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;Shenzhen, China
 
 
-
-
-
-## Academic Experience
-{: style="font-family: 'Times New Roman', Times, serif;" }
-
-* 2024.06---Present&emsp;&ensp;Postdoc, [IGPM](https://www.igpm.rwth-aachen.de/),  
-  [RWTH Aachen University](https://www.rwth-aachen.de/), Aachen, Germany
-
-* 2023.08---2024.05&emsp;Research Scholar, [Department of Mathematics](https://math.sustech.edu.cn/?lang=en),  
-  [Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us),  
-  [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), Shenzhen, China
-{: style="font-family: 'Times New Roman', Times, serif;" }
-
-
-
-
-
-
-
-
 ## <font face="Times New Roman">Recent Preprints</font> 
 
    [7] **S. Chu** and M. Herty, [Numerical Realization of an Entropy-Based Selection Principle in the Example of Kelvin-Helmholtz Instability](./files/Chu_Herty_KH.pdf), submitted to SIAM Journal on Scientific Computing.
