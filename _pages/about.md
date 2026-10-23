@@ -221,16 +221,16 @@ redirect_from:
 ## <font face="Times New Roman">Academic Education</font> 
 
 
-2019---2023 &emsp;PhD in Computational Mathematics,             
+2019---2023 &emsp;&ensp;PhD in Computational Mathematics,             
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Department of Mathematics, Southern University of Science and Technology,     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Shenzhen, China  
 
-2017---2019&emsp;MS in Computational Mathematics,   
+2017---2019&emsp;&ensp;MS in Computational Mathematics,   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;School of Mathematics, Harbin Institute of Technology, Harbin, China   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Department of Mathematics, Southern University of Science and Technology,   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Shenzhen, China  
 
-2013---2017&emsp;BS in Information and Computing Science,   
+2013---2017&emsp;&ensp;BS in Information and Computing Science,   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;School of Mathematics and Statistics, Beijing Institute of Technology,   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Beijing, China
 
@@ -257,7 +257,7 @@ redirect_from:
    2018 Fall    &emsp;&emsp;&ensp;&ensp;Calculus I 
 
    2018 Spring  &emsp;&ensp;Calculus II
-   
+
    2017 Fall    &emsp;&emsp;&ensp;&ensp;Calculus I 
 
 ## <font size="5">Awards</font>
